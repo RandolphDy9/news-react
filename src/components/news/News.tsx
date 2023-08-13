@@ -18,8 +18,9 @@ const News = () => {
       // .get(
       //   `https://newsapi.org/v2/top-headlines?country=us&category=business&apiKey=${process.env.REACT_APP_NEWS_KEY}`
       // )
-      .get('/articles')
+      .get(`http://localhost:5000/articles`)
       .then((response) => {
+        console.log(response);
         const filtered = response.data.filter((item: NewsType) => item.urlToImage !== null);
         setNews(filtered);
       })
