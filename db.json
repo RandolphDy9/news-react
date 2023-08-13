@@ -1,0 +1,199 @@
+{
+  "articles": [
+      {
+          "source": {
+              "id": null,
+              "name": "CoinDesk"
+          },
+          "author": "Omkar Godbole",
+          "title": "A Bitcoin Warning Signal Blares From Surging Interest in Shiba Inu - CoinDesk",
+          "description": "Open interest or the dollar amount locked in open SHIB futures contracts has topped $100 million for the first time since February.",
+          "url": "https://www.coindesk.com/markets/2023/08/12/shiba-inu-open-interest-tops-100m-raises-red-flag-for-bitcoin/",
+          "urlToImage": "https://www.coindesk.com/resizer/LtJRzYdP9HsRd033JjnsFZ26g4U=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/73X6DACWJZC4HMKXKLYS2RTWPA.jpg",
+          "publishedAt": "2023-08-12T13:34:00Z",
+          "content": "Please note that ourprivacy policy,terms of use,cookies, anddo not sell my personal informationhas been updated.\r\nThe leader in news and information on cryptocurrency, digital assets and the future o… [+538 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "TheStreet"
+          },
+          "author": "TheStreet",
+          "title": "Walmart shares a warning for customers - TheStreet",
+          "description": null,
+          "url": "https://www.thestreet.com/retailers/walmart-shares-a-warning-for-customers",
+          "urlToImage": null,
+          "publishedAt": "2023-08-12T13:00:00Z",
+          "content": null
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Yahoo Entertainment"
+          },
+          "author": "Brooke DiPalma",
+          "title": "Molson Coors, Tilray search for ‘next billion-dollar idea’ in recent booze deals - Yahoo Finance",
+          "description": "Beer, cannabis, and spirits come together as companies look to follow the consumer into the future.",
+          "url": "https://finance.yahoo.com/news/molson-coors-tilray-search-for-next-billion-dollar-idea-in-recent-booze-deals-120231367.html",
+          "urlToImage": "https://s.yimg.com/ny/api/res/1.2/T9Ry1zx7KVn45lWXtJCVEA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04OTQ-/https://s.yimg.com/os/creatr-uploaded-images/2023-08/b4fcacf0-3888-11ee-a3cb-55f8d8ed625d",
+          "publishedAt": "2023-08-12T12:02:31Z",
+          "content": "There was a lot of buzz in the beer industry this week as two brands bulked up their portfolio and another slimmed down.\r\nOn Tuesday, cannabis and consumer packaged goods giant Tilray (TLRY) scooped … [+5862 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Yahoo Entertainment"
+          },
+          "author": "Bethan Moorcraft",
+          "title": "Famed investor Peter Schiff just said that married women in the workforce are partly to blame for today's housing crisis — and he got blasted for it. Here's his explanation - Yahoo Finance",
+          "description": "X.com was all a-Twitter, prompting the economist to respond with “that’s not what I meant”.",
+          "url": "https://finance.yahoo.com/news/famed-investor-peter-schiff-just-120000071.html",
+          "urlToImage": "https://media.zenfs.com/en/moneywise_327/b97cbd6826fa55b2ce302d58633be098",
+          "publishedAt": "2023-08-12T12:00:00Z",
+          "content": "Famed investor Peter Schiff just said that married women in the workforce are partly to blame for today's housing crisis and he got blasted for it. Here's his explanation\r\nFamed investor Peter Schiff… [+3942 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Houston Chronicle"
+          },
+          "author": "Houston Chronicle ",
+          "title": "What to know about the proposed Texas 'bullet train' from Houston to Dallas: Route, speed and timeline - Houston Chronicle ",
+          "description": null,
+          "url": "https://www.houstonchronicle.com/news/houston-texas/transportation/article/houston-texas-bullet-train-route-speed-completion-18292116.php",
+          "urlToImage": null,
+          "publishedAt": "2023-08-12T11:12:15Z",
+          "content": null
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Science.org"
+          },
+          "author": "Science",
+          "title": "U.S. unveils plans for large facilities to capture carbon directly from air - Science",
+          "description": null,
+          "url": "https://www.science.org/content/article/us-unveils-plans-for-large-facilities-to-capture-carbon-directly-from-air",
+          "urlToImage": null,
+          "publishedAt": "2023-08-12T10:33:54Z",
+          "content": null
+      },
+      {
+          "source": {
+              "id": "the-wall-street-journal",
+              "name": "The Wall Street Journal"
+          },
+          "author": "Spencer Jakab",
+          "title": "The Scary Math Behind the World's Safest Assets - The Wall Street Journal",
+          "description": "Washington has laid the seeds of a crisis that Wall Street can no longer ignore",
+          "url": "https://www.wsj.com/articles/the-scary-math-behind-the-worlds-safest-assets-a22069f9",
+          "urlToImage": "https://images.wsj.net/im-832926/social",
+          "publishedAt": "2023-08-12T09:30:00Z",
+          "content": null
+      },
+      {
+          "source": {
+              "id": "reuters",
+              "name": "Reuters"
+          },
+          "author": "Deena Beasley",
+          "title": "Insight: What happens when a $2 million gene therapy is not enough - Reuters",
+          "description": "Baby Ben Kutschke was diagnosed at three months with spinal muscular atrophy, a rare inherited disorder which is the leading genetic cause of death in infancy globally. It leaves children too weak to walk, talk, swallow or even breathe.",
+          "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/what-happens-when-2-million-gene-therapy-is-not-enough-2023-08-12/",
+          "urlToImage": "https://www.reuters.com/resizer/1O9tW5s6hkZAICqp3PtCfkBwPzM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/RYOJVKI2TFJJ3MZWJAFAVE4YNU.jpg",
+          "publishedAt": "2023-08-12T09:05:00Z",
+          "content": "LOS ANGELES, Aug 12 (Reuters) - Baby Ben Kutschke was diagnosed at three months with spinal muscular atrophy, a rare inherited disorder which is the leading genetic cause of death in infancy globally… [+11166 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "PhoneArena"
+          },
+          "author": "Alan Friedman",
+          "title": "Ex-Qualcomm executive admits tricking the chipmaker into spending $180M to buy its own technology - PhoneArena",
+          "description": "One of three men involved in a scheme that led Qualcomm to pay over $150 million for tech it already owned pleaded guilty to a related charge,",
+          "url": "https://www.phonearena.com/news/former-qualcomm-executive-admits-rip-off_id149712",
+          "urlToImage": "https://m-cdn.phonearena.com/images/article/149712-wide-two_1200/Ex-Qualcomm-executive-admits-tricking-the-chipmaker-into-spending-180M-to-buy-its-own-technology.jpg",
+          "publishedAt": "2023-08-12T06:09:13Z",
+          "content": "Enjoy the hottest mobile tech storylines, delivered straight to your inbox."
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "News12.com"
+          },
+          "author": null,
+          "title": "Real Kosher Ice Cream recalled in New Jersey, Connecticut & New York due to possible listeria outbreak - News 12 New Jersey",
+          "description": "The FDA is investigating a multistate listeria outbreak that may be linked to Soft Serve On The Go Cups by Real Kosher Ice Cream.",
+          "url": "https://newjersey.news12.com/real-kosher-ice-cream-recalled-nj-ny-ct-possible-listeria-outbreak",
+          "urlToImage": "https://images.ctfassets.net/3kqcuzntcg31/6GQSaGUiNLx01NP4IEfwUH/cc1fdd9da08a55b080b7065fe8011276/23aecd01-677d-481f-b808-5a8c31e0a4da.jpg?fit=thumb&w=600&h=340&q=80",
+          "publishedAt": "2023-08-12T04:11:53Z",
+          "content": null
+      },
+      {
+          "source": {
+              "id": "the-wall-street-journal",
+              "name": "The Wall Street Journal"
+          },
+          "author": "Anthony DeBarros, Yuka Hayashi",
+          "title": "How U.S. and China Are Breaking Up, in Charts - The Wall Street Journal",
+          "description": "Americans keep buying less from China, dropping its share of imports to a 20-year low",
+          "url": "https://www.wsj.com/articles/how-u-s-and-china-are-breaking-up-in-charts-282bd878",
+          "urlToImage": "https://images.wsj.net/im-834150/social",
+          "publishedAt": "2023-08-12T04:00:00Z",
+          "content": null
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "WTOP"
+          },
+          "author": "Liz Anderson",
+          "title": "DC Council member calls for Southeast Giant to remain open, despite theft and violence concerns - WTOP",
+          "description": "Ward 8 Council member Trayon White is calling for the Giant along Alabama Avenue, Southeast to remain open so his constituents can access fresh food without traveling to a neighboring ward.",
+          "url": "https://wtop.com/dc/2023/08/dc-council-member-calls-for-southeast-giant-to-remain-open-despite-theft-and-violence-concerns/",
+          "urlToImage": "https://wtop.com/wp-content/uploads/2020/05/GettyImages-532996606.jpg",
+          "publishedAt": "2023-08-12T03:52:51Z",
+          "content": "Watch profitability community advocate Jo Patterson speak at a Friday news conference.\r\nTheres a call to keep a large grocery store open in an area of Southeast D.C. where fresh produce options are i… [+2766 chars]"
+      },
+      {
+          "source": {
+              "id": "reuters",
+              "name": "Reuters"
+          },
+          "author": "Mrinmay Dey",
+          "title": "Nikola recalls all battery-electric trucks, halts sales after fire probe - Reuters",
+          "description": "Nikola <a href=\"https://www.reuters.com/markets/companies/NKLA.O\" target=\"_blank\">(NKLA.O)</a> said on Friday it was recalling all the battery-powered electric trucks that it has delivered till date and is suspending sales after an investigation into recent f…",
+          "url": "https://www.reuters.com/business/autos-transportation/nikola-recalls-209-class-8-battery-electric-trucks-2023-08-11/",
+          "urlToImage": "https://www.reuters.com/resizer/COSx0VdIR9DgoVGRHc3ml4RN8tQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/OW6OW25GARPAVFUWLYXJSBHUGY.jpg",
+          "publishedAt": "2023-08-12T03:31:00Z",
+          "content": "Aug 11 (Reuters) - Nikola (NKLA.O) said on Friday it was recalling all the battery-powered electric trucks that it has delivered till date and is suspending sales after an investigation into recent f… [+2111 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "DW (English)"
+          },
+          "author": "Deutsche Welle",
+          "title": "Elon Musk says Zuckerberg fight will take place in Italy - DW (English)",
+          "description": "Tesla owner Elon Musk has said he confirmed an \"epic location\" for a mixed martial arts cage match with Meta founder Mark Zuckerberg. Any proceeds will be donated to charity.",
+          "url": "https://www.dw.com/en/elon-musk-says-zuckerberg-fight-will-take-place-in-italy/a-66512868",
+          "urlToImage": "https://static.dw.com/image/66453606_6.jpg",
+          "publishedAt": "2023-08-12T03:10:28Z",
+          "content": "Elon Musk on Friday said he spoke with Italy's culture minister, Gennaro Sangiuliano, about planning a cage fight with rival tech billionaire Mark Zuckerberg in Italy. \r\nMusk said on his social media… [+1477 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "The Daily Hodl"
+          },
+          "author": "Henry Kanapi",
+          "title": "US Banks Facing ‘Significant Risk’ of Deposit Flight As Profit Margins Narrow, Warns Top Ratings Agency - The Daily Hodl",
+          "description": "The credit ratings agency Moody's just issued a fresh warning on the US banking system. In new research note, Moody's says it's cutting the ratings of 10 regional banks, and is considering whether to downgrade a number of big lenders including Bank of New Yor…",
+          "url": "https://dailyhodl.com/2023/08/11/us-banks-facing-significant-risk-of-deposit-flight-as-profit-margins-narrow-warns-top-ratings-agency/",
+          "urlToImage": "https://dailyhodl.com/wp-content/uploads/2023/08/banks-us-deposits.jpg",
+          "publishedAt": "2023-08-12T03:09:26Z",
+          "content": "The credit ratings agency Moody’s just issued a fresh warning on the US banking system.\r\nIn new research note, Moody’s says it’s cutting the ratings of 10 regional banks, and is considering whether t… [+2242 chars]"
+      }
+  ]
+}

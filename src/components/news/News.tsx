@@ -15,11 +15,15 @@ const News = () => {
 
   const getNews = () => {
     axios
+      // .get(
+      //   `https://newsapi.org/v2/top-headlines?country=us&category=business&apiKey=${process.env.REACT_APP_NEWS_KEY}`
+      // )
       .get(
-        `https://newsapi.org/v2/everything?q=tesla&from=2023-07-11&sortBy=publishedAt&apiKey=${process.env.REACT_APP_NEWS_KEY}`
+        `http://localhost:5000/articles`
       )
       .then((response) => {
-        setNews(response.data.articles);
+        const filtered = response.data.filter((item: NewsType) => item.urlToImage !== null);
+        setNews(filtered);
       })
       .catch((error) => {
         console.log(error);
