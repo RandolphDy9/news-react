@@ -1,199 +1,277 @@
 {
   "articles": [
-      {
-          "source": {
-              "id": null,
-              "name": "CoinDesk"
-          },
-          "author": "Omkar Godbole",
-          "title": "A Bitcoin Warning Signal Blares From Surging Interest in Shiba Inu - CoinDesk",
-          "description": "Open interest or the dollar amount locked in open SHIB futures contracts has topped $100 million for the first time since February.",
-          "url": "https://www.coindesk.com/markets/2023/08/12/shiba-inu-open-interest-tops-100m-raises-red-flag-for-bitcoin/",
-          "urlToImage": "https://www.coindesk.com/resizer/LtJRzYdP9HsRd033JjnsFZ26g4U=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/73X6DACWJZC4HMKXKLYS2RTWPA.jpg",
-          "publishedAt": "2023-08-12T13:34:00Z",
-          "content": "Please note that ourprivacy policy,terms of use,cookies, anddo not sell my personal informationhas been updated.\r\nThe leader in news and information on cryptocurrency, digital assets and the future o… [+538 chars]"
-      },
-      {
-          "source": {
-              "id": null,
-              "name": "TheStreet"
-          },
-          "author": "TheStreet",
-          "title": "Walmart shares a warning for customers - TheStreet",
-          "description": null,
-          "url": "https://www.thestreet.com/retailers/walmart-shares-a-warning-for-customers",
-          "urlToImage": null,
-          "publishedAt": "2023-08-12T13:00:00Z",
-          "content": null
-      },
-      {
-          "source": {
-              "id": null,
-              "name": "Yahoo Entertainment"
-          },
-          "author": "Brooke DiPalma",
-          "title": "Molson Coors, Tilray search for ‘next billion-dollar idea’ in recent booze deals - Yahoo Finance",
-          "description": "Beer, cannabis, and spirits come together as companies look to follow the consumer into the future.",
-          "url": "https://finance.yahoo.com/news/molson-coors-tilray-search-for-next-billion-dollar-idea-in-recent-booze-deals-120231367.html",
-          "urlToImage": "https://s.yimg.com/ny/api/res/1.2/T9Ry1zx7KVn45lWXtJCVEA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04OTQ-/https://s.yimg.com/os/creatr-uploaded-images/2023-08/b4fcacf0-3888-11ee-a3cb-55f8d8ed625d",
-          "publishedAt": "2023-08-12T12:02:31Z",
-          "content": "There was a lot of buzz in the beer industry this week as two brands bulked up their portfolio and another slimmed down.\r\nOn Tuesday, cannabis and consumer packaged goods giant Tilray (TLRY) scooped … [+5862 chars]"
-      },
-      {
-          "source": {
-              "id": null,
-              "name": "Yahoo Entertainment"
-          },
-          "author": "Bethan Moorcraft",
-          "title": "Famed investor Peter Schiff just said that married women in the workforce are partly to blame for today's housing crisis — and he got blasted for it. Here's his explanation - Yahoo Finance",
-          "description": "X.com was all a-Twitter, prompting the economist to respond with “that’s not what I meant”.",
-          "url": "https://finance.yahoo.com/news/famed-investor-peter-schiff-just-120000071.html",
-          "urlToImage": "https://media.zenfs.com/en/moneywise_327/b97cbd6826fa55b2ce302d58633be098",
-          "publishedAt": "2023-08-12T12:00:00Z",
-          "content": "Famed investor Peter Schiff just said that married women in the workforce are partly to blame for today's housing crisis and he got blasted for it. Here's his explanation\r\nFamed investor Peter Schiff… [+3942 chars]"
-      },
-      {
-          "source": {
-              "id": null,
-              "name": "Houston Chronicle"
-          },
-          "author": "Houston Chronicle ",
-          "title": "What to know about the proposed Texas 'bullet train' from Houston to Dallas: Route, speed and timeline - Houston Chronicle ",
-          "description": null,
-          "url": "https://www.houstonchronicle.com/news/houston-texas/transportation/article/houston-texas-bullet-train-route-speed-completion-18292116.php",
-          "urlToImage": null,
-          "publishedAt": "2023-08-12T11:12:15Z",
-          "content": null
-      },
-      {
-          "source": {
-              "id": null,
-              "name": "Science.org"
-          },
-          "author": "Science",
-          "title": "U.S. unveils plans for large facilities to capture carbon directly from air - Science",
-          "description": null,
-          "url": "https://www.science.org/content/article/us-unveils-plans-for-large-facilities-to-capture-carbon-directly-from-air",
-          "urlToImage": null,
-          "publishedAt": "2023-08-12T10:33:54Z",
-          "content": null
-      },
-      {
-          "source": {
-              "id": "the-wall-street-journal",
-              "name": "The Wall Street Journal"
-          },
-          "author": "Spencer Jakab",
-          "title": "The Scary Math Behind the World's Safest Assets - The Wall Street Journal",
-          "description": "Washington has laid the seeds of a crisis that Wall Street can no longer ignore",
-          "url": "https://www.wsj.com/articles/the-scary-math-behind-the-worlds-safest-assets-a22069f9",
-          "urlToImage": "https://images.wsj.net/im-832926/social",
-          "publishedAt": "2023-08-12T09:30:00Z",
-          "content": null
-      },
-      {
-          "source": {
-              "id": "reuters",
-              "name": "Reuters"
-          },
-          "author": "Deena Beasley",
-          "title": "Insight: What happens when a $2 million gene therapy is not enough - Reuters",
-          "description": "Baby Ben Kutschke was diagnosed at three months with spinal muscular atrophy, a rare inherited disorder which is the leading genetic cause of death in infancy globally. It leaves children too weak to walk, talk, swallow or even breathe.",
-          "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/what-happens-when-2-million-gene-therapy-is-not-enough-2023-08-12/",
-          "urlToImage": "https://www.reuters.com/resizer/1O9tW5s6hkZAICqp3PtCfkBwPzM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/RYOJVKI2TFJJ3MZWJAFAVE4YNU.jpg",
-          "publishedAt": "2023-08-12T09:05:00Z",
-          "content": "LOS ANGELES, Aug 12 (Reuters) - Baby Ben Kutschke was diagnosed at three months with spinal muscular atrophy, a rare inherited disorder which is the leading genetic cause of death in infancy globally… [+11166 chars]"
-      },
-      {
-          "source": {
-              "id": null,
-              "name": "PhoneArena"
-          },
-          "author": "Alan Friedman",
-          "title": "Ex-Qualcomm executive admits tricking the chipmaker into spending $180M to buy its own technology - PhoneArena",
-          "description": "One of three men involved in a scheme that led Qualcomm to pay over $150 million for tech it already owned pleaded guilty to a related charge,",
-          "url": "https://www.phonearena.com/news/former-qualcomm-executive-admits-rip-off_id149712",
-          "urlToImage": "https://m-cdn.phonearena.com/images/article/149712-wide-two_1200/Ex-Qualcomm-executive-admits-tricking-the-chipmaker-into-spending-180M-to-buy-its-own-technology.jpg",
-          "publishedAt": "2023-08-12T06:09:13Z",
-          "content": "Enjoy the hottest mobile tech storylines, delivered straight to your inbox."
-      },
-      {
-          "source": {
-              "id": null,
-              "name": "News12.com"
-          },
-          "author": null,
-          "title": "Real Kosher Ice Cream recalled in New Jersey, Connecticut & New York due to possible listeria outbreak - News 12 New Jersey",
-          "description": "The FDA is investigating a multistate listeria outbreak that may be linked to Soft Serve On The Go Cups by Real Kosher Ice Cream.",
-          "url": "https://newjersey.news12.com/real-kosher-ice-cream-recalled-nj-ny-ct-possible-listeria-outbreak",
-          "urlToImage": "https://images.ctfassets.net/3kqcuzntcg31/6GQSaGUiNLx01NP4IEfwUH/cc1fdd9da08a55b080b7065fe8011276/23aecd01-677d-481f-b808-5a8c31e0a4da.jpg?fit=thumb&w=600&h=340&q=80",
-          "publishedAt": "2023-08-12T04:11:53Z",
-          "content": null
-      },
-      {
-          "source": {
-              "id": "the-wall-street-journal",
-              "name": "The Wall Street Journal"
-          },
-          "author": "Anthony DeBarros, Yuka Hayashi",
-          "title": "How U.S. and China Are Breaking Up, in Charts - The Wall Street Journal",
-          "description": "Americans keep buying less from China, dropping its share of imports to a 20-year low",
-          "url": "https://www.wsj.com/articles/how-u-s-and-china-are-breaking-up-in-charts-282bd878",
-          "urlToImage": "https://images.wsj.net/im-834150/social",
-          "publishedAt": "2023-08-12T04:00:00Z",
-          "content": null
-      },
-      {
-          "source": {
-              "id": null,
-              "name": "WTOP"
-          },
-          "author": "Liz Anderson",
-          "title": "DC Council member calls for Southeast Giant to remain open, despite theft and violence concerns - WTOP",
-          "description": "Ward 8 Council member Trayon White is calling for the Giant along Alabama Avenue, Southeast to remain open so his constituents can access fresh food without traveling to a neighboring ward.",
-          "url": "https://wtop.com/dc/2023/08/dc-council-member-calls-for-southeast-giant-to-remain-open-despite-theft-and-violence-concerns/",
-          "urlToImage": "https://wtop.com/wp-content/uploads/2020/05/GettyImages-532996606.jpg",
-          "publishedAt": "2023-08-12T03:52:51Z",
-          "content": "Watch profitability community advocate Jo Patterson speak at a Friday news conference.\r\nTheres a call to keep a large grocery store open in an area of Southeast D.C. where fresh produce options are i… [+2766 chars]"
-      },
-      {
-          "source": {
-              "id": "reuters",
-              "name": "Reuters"
-          },
-          "author": "Mrinmay Dey",
-          "title": "Nikola recalls all battery-electric trucks, halts sales after fire probe - Reuters",
-          "description": "Nikola <a href=\"https://www.reuters.com/markets/companies/NKLA.O\" target=\"_blank\">(NKLA.O)</a> said on Friday it was recalling all the battery-powered electric trucks that it has delivered till date and is suspending sales after an investigation into recent f…",
-          "url": "https://www.reuters.com/business/autos-transportation/nikola-recalls-209-class-8-battery-electric-trucks-2023-08-11/",
-          "urlToImage": "https://www.reuters.com/resizer/COSx0VdIR9DgoVGRHc3ml4RN8tQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/OW6OW25GARPAVFUWLYXJSBHUGY.jpg",
-          "publishedAt": "2023-08-12T03:31:00Z",
-          "content": "Aug 11 (Reuters) - Nikola (NKLA.O) said on Friday it was recalling all the battery-powered electric trucks that it has delivered till date and is suspending sales after an investigation into recent f… [+2111 chars]"
-      },
-      {
-          "source": {
-              "id": null,
-              "name": "DW (English)"
-          },
-          "author": "Deutsche Welle",
-          "title": "Elon Musk says Zuckerberg fight will take place in Italy - DW (English)",
-          "description": "Tesla owner Elon Musk has said he confirmed an \"epic location\" for a mixed martial arts cage match with Meta founder Mark Zuckerberg. Any proceeds will be donated to charity.",
-          "url": "https://www.dw.com/en/elon-musk-says-zuckerberg-fight-will-take-place-in-italy/a-66512868",
-          "urlToImage": "https://static.dw.com/image/66453606_6.jpg",
-          "publishedAt": "2023-08-12T03:10:28Z",
-          "content": "Elon Musk on Friday said he spoke with Italy's culture minister, Gennaro Sangiuliano, about planning a cage fight with rival tech billionaire Mark Zuckerberg in Italy. \r\nMusk said on his social media… [+1477 chars]"
-      },
-      {
-          "source": {
-              "id": null,
-              "name": "The Daily Hodl"
-          },
-          "author": "Henry Kanapi",
-          "title": "US Banks Facing ‘Significant Risk’ of Deposit Flight As Profit Margins Narrow, Warns Top Ratings Agency - The Daily Hodl",
-          "description": "The credit ratings agency Moody's just issued a fresh warning on the US banking system. In new research note, Moody's says it's cutting the ratings of 10 regional banks, and is considering whether to downgrade a number of big lenders including Bank of New Yor…",
-          "url": "https://dailyhodl.com/2023/08/11/us-banks-facing-significant-risk-of-deposit-flight-as-profit-margins-narrow-warns-top-ratings-agency/",
-          "urlToImage": "https://dailyhodl.com/wp-content/uploads/2023/08/banks-us-deposits.jpg",
-          "publishedAt": "2023-08-12T03:09:26Z",
-          "content": "The credit ratings agency Moody’s just issued a fresh warning on the US banking system.\r\nIn new research note, Moody’s says it’s cutting the ratings of 10 regional banks, and is considering whether t… [+2242 chars]"
-      }
+    {
+        "source": {
+            "id": "engadget",
+            "name": "Engadget"
+        },
+        "author": "Kris Holt",
+        "title": "Facebook and Instagram’s news blackout in Canada starts today",
+        "description": "As promised, Meta\r\n has begun blocking news content in Canada. Starting today, Facebook\r\n and Instagram\r\n users in the country will no longer be able to view or share news links or see videos and photos posted by publishers and broadcasters. The company, whic…",
+        "url": "https://www.engadget.com/facebook-and-instagrams-news-blackout-in-canada-starts-today-182139785.html",
+        "urlToImage": "https://s.yimg.com/uu/api/res/1.2/g3m1MzFQ57pEF202yXffSQ--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-images/2020-02/57b39e80-4ec3-11ea-bdbc-bf356bea768e.cf.jpg",
+        "publishedAt": "2023-08-01T18:21:39Z",
+        "content": "As promised, Meta\r\n has begun blocking news content in Canada. Starting today, Facebook\r\n and Instagram\r\n users in the country will no longer be able to view or share news links or see videos and pho… [+1502 chars]"
+    },
+    {
+        "source": {
+            "id": "the-verge",
+            "name": "The Verge"
+        },
+        "author": "Emilia David",
+        "title": "News outlets demand new rules for AI training data",
+        "description": "In an open letter, news organizations called on governments to require copyright protections in AI training models.",
+        "url": "https://www.theverge.com/2023/8/10/23827316/news-transparency-copyright-generative-ai",
+        "urlToImage": "https://cdn.vox-cdn.com/thumbor/YmfPiQaCDRZjL1kuejynWiwZwHI=/0x0:640x427/1200x628/filters:focal(320x214:321x215)/cdn.vox-cdn.com/assets/2364559/AP_logo_640.jpg",
+        "publishedAt": "2023-08-10T16:18:25Z",
+        "content": "News outlets demand new rules for AI training data\r\nNews outlets demand new rules for AI training data\r\n / Several news organizations released an open letter calling for more transparency and copyrig… [+2799 chars]"
+    },
+    {
+        "source": {
+            "id": "engadget",
+            "name": "Engadget"
+        },
+        "author": "Mariella Moon",
+        "title": "Google is reportedly testing an AI tool that can generate news articles",
+        "description": "Google is testing a new AI technology codenamed \"Genesis\" that can generate news articles, according to The New York Times. The tech giant has reportedly demonstrated the tool not just for The Times, but also for executives at The Washington Post and News Cor…",
+        "url": "https://www.engadget.com/google-is-reportedly-testing-an-ai-tool-that-can-generate-news-articles-054602544.html",
+        "urlToImage": "https://s.yimg.com/uu/api/res/1.2/bYdQJFcdoqTuE_102ynQew--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-07/f2a5e070-26b4-11ee-bffb-655df49b92b8.cf.jpg",
+        "publishedAt": "2023-07-20T05:46:02Z",
+        "content": "Google is testing a new AI technology codenamed \"Genesis\" that can generate news articles, according to The New York Times. The tech giant has reportedly demonstrated the tool not just for The Times,… [+1682 chars]"
+    },
+    {
+        "source": {
+            "id": "the-verge",
+            "name": "The Verge"
+        },
+        "author": "Jay Peters",
+        "title": "Artifact is getting an AI-powered text-to-speech feature to read you the news",
+        "description": "Artifact — the news app from Instagram co-founders Kevin Systrom and Mike Krieger — is adding an AI-powered text-to-speech feature that will read you news articles. Snoop Dogg and Gwyneth Paltrow are two of the voices that you can listen to.",
+        "url": "https://www.theverge.com/2023/7/27/23810160/artifact-ai-text-to-speech-read-news-snoop-dogg-gwyneth-paltrow-speechify",
+        "urlToImage": "https://cdn.vox-cdn.com/thumbor/rpTHbSwAKA8czdjitxZ-LYPm4Ps=/0x0:3578x2272/1200x628/filters:focal(1789x1136:1790x1137)/cdn.vox-cdn.com/uploads/chorus_asset/file/24814014/Verge.png",
+        "publishedAt": "2023-07-27T18:00:00Z",
+        "content": "Artifact is getting an AI-powered text-to-speech feature to read you the news\r\nArtifact is getting an AI-powered text-to-speech feature to read you the news\r\n / Snoop Dogg and Gwyneth Paltrow are two… [+1618 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Gizmodo.com"
+        },
+        "author": "Sabina Graves",
+        "title": "The Latest News From Disney Parks, Universal Studios Resorts, and What to See at SDCC 2023",
+        "description": "Summer isn’t over yet; theme parks are still drawing crowds, and San Diego Comic-Con 2023 is arriving later this week. Despite the ongoing WGA and SAG-AFTRA strikes, the annual event still has plenty of pop-culture activations scheduled for fans, many of whic…",
+        "url": "https://gizmodo.com/theme-park-news-universal-studios-disney-parks-sdcc-23-1850648432",
+        "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/5dda4663fca0dc9bd2ab0fca5fb28581.jpg",
+        "publishedAt": "2023-07-18T00:30:00Z",
+        "content": "Summer isnt over yet; theme parks are still drawing crowds, and San Diego Comic-Con 2023 is arriving later this week. Despite the ongoing WGA and SAG-AFTRA strikes, the annual event still has plenty … [+634 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Gizmodo.com"
+        },
+        "author": "Lucas Ropek",
+        "title": "OpenAI Throws a Paltry $5 Million at Journalism Philanthropy in Attempt to Spur AI-Driven News",
+        "description": "OpenAI is on a quest to conquer the world—and it’s doing pretty well on that front. It’s ascended to the heights of industry. It’s managed to suck up to politicians in countries scattered across the planet. And now it’s begun a charm offensive aimed at an ent…",
+        "url": "https://gizmodo.com/openai-american-journalism-project-sam-altman-ai-1850651397",
+        "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/4b2dc3a0c1e98f494e6555efd09a4275.jpg",
+        "publishedAt": "2023-07-18T21:20:00Z",
+        "content": "OpenAI is on a quest to conquer the worldand its doing pretty well on that front. Its ascended to the heights of industry. Its managed to suck up to politicians in countries scattered across the plan… [+4248 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Gizmodo.com"
+        },
+        "author": "James Whitbrook",
+        "title": "This Week's Toy News Is Full of Spiders, Grasshoppers, and Miners",
+        "description": "Welcome back to Toy Aisle, io9's weekly roundup of the coolest toy news around the internet. This week, Hot Toys delves into Kamen Rider, Bandai debuts its chonky new Godzilla, and NECA’s Gargoyles line gives us the Iron Man Jonathan Frakes of our dreams. Che…",
+        "url": "https://gizmodo.com/hot-toys-dark-knight-joker-kamen-rider-black-sun-1850691764",
+        "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/95771b3a14ad3ffe47114aa13feaf447.png",
+        "publishedAt": "2023-07-31T15:15:00Z",
+        "content": "Welcome back to Toy Aisle, io9's weekly roundup of the coolest toy news around the internet. This week, Hot Toys delves into Kamen Rider, Bandai debuts its chonky new Godzilla, and NECAs Gargoyles li… [+3732 chars]"
+    },
+    {
+        "source": {
+            "id": "wired",
+            "name": "Wired"
+        },
+        "author": "Amanda Hoover",
+        "title": "This Is the Era of Zombie Twitter",
+        "description": "The bird may be dead, but Twitter—er, X—is still alive for communities, news, and memes.",
+        "url": "https://www.wired.com/story/x-twitter-rebrand-dead/",
+        "urlToImage": "https://media.wired.com/photos/64c42b437b25a434b1f3bfd4/191:100/w_1280,c_limit/The-Era-Of-Zombie-Twitter-Business-112181355.jpg",
+        "publishedAt": "2023-07-29T11:00:00Z",
+        "content": "The bird is dead, but zombie Twitter is not. Since Elon Musk bought Twitter, the platform has survived rate-limiting, massive staff cuts, suspensions of journalists, hemorrhaging ad dollars, exorbita… [+3246 chars]"
+    },
+    {
+        "source": {
+            "id": "engadget",
+            "name": "Engadget"
+        },
+        "author": "Devindra Hardawar",
+        "title": "Engadget Podcast: Samsung’s foldable summer",
+        "description": "Samsung made a huge flex this week by hosting its first Unpacked event in Seoul, South Korea (sorry NYC!). In this episode, Cherlynn, Devindra and Senior Writer Sam Rutherford dive into all of Samsung’s news: The Galaxy Z Fold 5, Z Flip 5, Watch 6 and Tab S9.…",
+        "url": "https://www.engadget.com/engadget-podcast-samsung-galaxy-z-fold-5-123038156.html",
+        "urlToImage": "https://s.yimg.com/uu/api/res/1.2/tdmZDSyzf3jjlI17q4HATQ--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2020-05/f43b53b0-909f-11ea-87fd-d8d721459924.cf.jpg",
+        "publishedAt": "2023-07-28T12:30:38Z",
+        "content": "Samsung made a huge flex this week by hosting its first Unpacked event in Seoul, South Korea (sorry NYC!). In this episode, Cherlynn, Devindra and Senior Writer Sam Rutherford dive into all of Samsun… [+1630 chars]"
+    },
+    {
+        "source": {
+            "id": "ars-technica",
+            "name": "Ars Technica"
+        },
+        "author": "Benj Edwards",
+        "title": "Google demos “unsettling” tool to help journalists write the news",
+        "description": "\"Genesis\" will seek to assist journalists, not replace them—yet.",
+        "url": "https://arstechnica.com/information-technology/2023/07/google-demos-unsettling-tool-to-help-journalists-write-the-news/",
+        "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/robot_journalist_2-760x380.jpg",
+        "publishedAt": "2023-07-20T17:01:13Z",
+        "content": "Enlarge/ An AI-generated image of a \"robot journalist.\"\r\n40 with \r\nGoogle has been developing tools aimed at helping journalists write news articles, reports The New York Times and Reuters. It has de… [+3329 chars]"
+    },
+    {
+        "source": {
+            "id": "google-news",
+            "name": "Google News"
+        },
+        "author": null,
+        "title": "Meta permanently ending news availability on its platforms in Canada starting today - CBC News",
+        "description": "<ol><li>Meta permanently ending news availability on its platforms in Canada starting today  CBC News\r\n</li><li>Bill C-18: Canadian news removed from Facebook, Instagram  CTV News\r\n</li><li>EDITOR'S NOTE: Prepare to lose access to local news on Facebook, Goog…",
+        "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LmNiYy5jYS9uZXdzL3BvbGl0aWNzL21ldGEtZW5kaW5nLW5ld3MtYXZhaWxhYmlsaXR5LXBlcm1hbmVudGx5LTEuNjkyNDM3MNIBIGh0dHBzOi8vd3d3LmNiYy5jYS9hbXAvMS42OTI0Mzcw?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+        "urlToImage": null,
+        "publishedAt": "2023-08-01T18:00:19Z",
+        "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+    },
+    {
+        "source": {
+            "id": "google-news",
+            "name": "Google News"
+        },
+        "author": null,
+        "title": "Ottawa real estate: Home prices increase $37,800 year-over-year | CTV News - CTV News Ottawa",
+        "description": "<ol><li>Ottawa real estate: Home prices increase $37,800 year-over-year | CTV News  CTV News Ottawa\r\n</li><li>There is a weird standoff in the housing market, people are stuck in their homes: Vancouver realtor  BNN Bloomberg\r\n</li><li>Sales activity slows as …",
+        "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vb3R0YXdhLmN0dm5ld3MuY2Evb3R0YXdhLWhvbWUtcHJpY2VzLWluY3JlYXNlLTM3LTgwMC15ZWFyLW92ZXIteWVhci0xLjY1MDU0NzbSAQA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+        "urlToImage": null,
+        "publishedAt": "2023-08-03T16:36:00Z",
+        "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+    },
+    {
+        "source": {
+            "id": "google-news",
+            "name": "Google News"
+        },
+        "author": null,
+        "title": "Ukraine news: Russian strike on Odessa leaves 1 dead - CTV News",
+        "description": "<ol><li>Ukraine news: Russian strike on Odessa leaves 1 dead  CTV News\r\n</li><li>Russian attack on port city Odesa kills one, damages historic cathedral  The Globe and Mail\r\n</li><li>Latest Russian strike on Odesa leaves 1 dead, many hurt and a cathedral badl…",
+        "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMihwFodHRwczovL3d3dy5jdHZuZXdzLmNhL3dvcmxkL3J1c3NpYW4tc3RyaWtlLW9uLXVrcmFpbmUtcy1vZGVzc2EtYmFkbHktZGFtYWdlcy1sYW5kbWFyay1vcnRob2RveC1jYXRoZWRyYWwtMS1kZWFkLW1hbnktd291bmRlZC0xLjY0OTA3MjPSAQA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+        "urlToImage": null,
+        "publishedAt": "2023-07-23T11:35:00Z",
+        "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+    },
+    {
+        "source": {
+            "id": "google-news",
+            "name": "Google News"
+        },
+        "author": null,
+        "title": "Trump news: Georgia prosecutor to seek grand jury indictment - CTV News",
+        "description": "<ol><li>Trump news: Georgia prosecutor to seek grand jury indictment  CTV News\r\n</li><li>Fulton County DA says work is done in Trump probe and ‘we’re ready to go’  CNN\r\n</li><li>Georgia's Broad Racketeering Law May Now Ensnare Donald Trump  The New Yorker\r\n</…",
+        "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LmN0dm5ld3MuY2Evd29ybGQvdHJ1bXAtY291bGQtYmUtaW5kaWN0ZWQtc29vbi1pbi1nZW9yZ2lhLWhlcmUtcy1hLWxvb2stYXQtdGhhdC1pbnZlc3RpZ2F0aW9uLTEuNjUwMDU2OdIBAA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+        "urlToImage": null,
+        "publishedAt": "2023-07-31T11:41:53Z",
+        "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+    },
+    {
+        "source": {
+            "id": "the-verge",
+            "name": "The Verge"
+        },
+        "author": "Makena Kelly",
+        "title": "Chronological feeds won’t fix platform polarization, new Meta-backed research suggests",
+        "description": "Facebook and Instagram users see wildly different political news in their feeds depending on their political beliefs, but chronological feeds won’t fix the problem, new research suggests.",
+        "url": "https://www.theverge.com/2023/7/27/23808979/meta-instagram-facebook-2020-election-study-polarization",
+        "urlToImage": "https://cdn.vox-cdn.com/thumbor/DqpBchfHXLCGqNYYmQys8cAgqA4=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23951353/STK043_VRG_Illo_N_Barclay_3_Meta.jpg",
+        "publishedAt": "2023-07-27T18:00:00Z",
+        "content": "Chronological feeds wont fix platform polarization, new Meta-backed research suggests\r\nChronological feeds wont fix platform polarization, new Meta-backed research suggests\r\n / Conservative users saw… [+6647 chars]"
+    },
+    {
+        "source": {
+            "id": "google-news",
+            "name": "Google News"
+        },
+        "author": null,
+        "title": "Cracks spike on US inventory drawdown — TradingView News - TradingView",
+        "description": "Cracks spike on US inventory drawdown — TradingView News  TradingView",
+        "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LnRyYWRpbmd2aWV3LmNvbS9uZXdzL3JldXRlcnMuY29tLDIwMjM6bmV3c21sX0wxTjM5UTFXVzowLWNyYWNrcy1zcGlrZS1vbi11cy1pbnZlbnRvcnktZHJhd2Rvd24v0gEA?oc%3D5%26hl%3Den-CA%26gl%3DCA%26ceid%3DCA:en&gl=FR&hl=en-CA&cm=2&pc=n&src=1",
+        "urlToImage": null,
+        "publishedAt": "2023-08-09T17:19:50Z",
+        "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+    },
+    {
+        "source": {
+            "id": "google-news",
+            "name": "Google News"
+        },
+        "author": null,
+        "title": "Cracks steady amid slowing exports — TradingView News - TradingView",
+        "description": "Cracks steady amid slowing exports — TradingView News  TradingView",
+        "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LnRyYWRpbmd2aWV3LmNvbS9uZXdzL3JldXRlcnMuY29tLDIwMjM6bmV3c21sX0wxTjM5TDFTWDowLWNyYWNrcy1zdGVhZHktYW1pZC1zbG93aW5nLWV4cG9ydHMv0gEA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+        "urlToImage": null,
+        "publishedAt": "2023-08-04T16:40:38Z",
+        "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+    },
+    {
+        "source": {
+            "id": "google-news",
+            "name": "Google News"
+        },
+        "author": null,
+        "title": "Cracks hold steady in thin trading — TradingView News - TradingView",
+        "description": "Cracks hold steady in thin trading — TradingView News  TradingView",
+        "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LnRyYWRpbmd2aWV3LmNvbS9uZXdzL3JldXRlcnMuY29tLDIwMjM6bmV3c21sX0wxTjM5NDFWNzowLWNyYWNrcy1ob2xkLXN0ZWFkeS1pbi10aGluLXRyYWRpbmcv0gEA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+        "urlToImage": null,
+        "publishedAt": "2023-07-18T16:38:33Z",
+        "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+    },
+    {
+        "source": {
+            "id": "google-news",
+            "name": "Google News"
+        },
+        "author": null,
+        "title": "US oil may test resistance at $80.93 — TradingView News - TradingView",
+        "description": "US oil may test resistance at $80.93 — TradingView News  TradingView",
+        "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LnRyYWRpbmd2aWV3LmNvbS9uZXdzL3JldXRlcnMuY29tLDIwMjM6bmV3c21sX0wxTjM5SDA0MDowLXVzLW9pbC1tYXktdGVzdC1yZXNpc3RhbmNlLWF0LTgwLTkzL9IBAA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+        "urlToImage": null,
+        "publishedAt": "2023-07-31T02:52:00Z",
+        "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+    },
+    {
+        "source": {
+            "id": "google-news",
+            "name": "Google News"
+        },
+        "author": null,
+        "title": "U.S. June factory orders data — TradingView News - TradingView",
+        "description": "U.S. June factory orders data — TradingView News  TradingView",
+        "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LnRyYWRpbmd2aWV3LmNvbS9uZXdzL3JldXRlcnMuY29tLDIwMjMtMDgtMDM6bmV3c21sX0FQTjBaOUdOSDowLXUtcy1qdW5lLWZhY3Rvcnktb3JkZXJzLWRhdGEv0gEA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+        "urlToImage": null,
+        "publishedAt": "2023-08-03T14:08:16Z",
+        "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+    },
+    {
+        "source": {
+            "id": "google-news",
+            "name": "Google News"
+        },
+        "author": null,
+        "title": "US oil may retest resistance at $77.33 — TradingView News - TradingView",
+        "description": "US oil may retest resistance at $77.33 — TradingView News  TradingView",
+        "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LnRyYWRpbmd2aWV3LmNvbS9uZXdzL3JldXRlcnMuY29tLDIwMjM6bmV3c21sX0wxTjM5NzA1RDowLXVzLW9pbC1tYXktcmV0ZXN0LXJlc2lzdGFuY2UtYXQtNzctMzMv0gEA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+        "urlToImage": null,
+        "publishedAt": "2023-07-21T03:17:00Z",
+        "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+    }
   ]
 }

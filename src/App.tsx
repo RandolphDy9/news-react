@@ -1,13 +1,16 @@
-import './App.css';
-import News from './components/news/News';
-import Navbar from './components/shared/Navbar';
+import React from 'react';
+import { BrowserRouter, Route, Routes } from 'react-router-dom';
+import Home from "./Home";
+import AllNews from './AllNews';
 
 function App() {
   return (
-    <div className="md:p-20 p-10 bg-background">
-      <Navbar />
-      <News />
-    </div>
+    <BrowserRouter>
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="/:category" element={<AllNews />} />
+      </Routes>
+    </BrowserRouter>
   );
 }
 

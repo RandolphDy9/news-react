@@ -6,7 +6,13 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        background: 'var(--background)'
+        background: '#ECE1D7',
+        primary: '#2b2d42',
+        accent: '#FF9169',
+      },
+      fontFamily: {
+        'main': ['Merriweather'],
+        'secondary': ['Montserrat', 'sans-serif']
       }
     },
   },
