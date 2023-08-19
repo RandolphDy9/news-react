@@ -1,277 +1,1615 @@
 {
-  "articles": [
-    {
-        "source": {
-            "id": "engadget",
-            "name": "Engadget"
-        },
-        "author": "Kris Holt",
-        "title": "Facebook and Instagram’s news blackout in Canada starts today",
-        "description": "As promised, Meta\r\n has begun blocking news content in Canada. Starting today, Facebook\r\n and Instagram\r\n users in the country will no longer be able to view or share news links or see videos and photos posted by publishers and broadcasters. The company, whic…",
-        "url": "https://www.engadget.com/facebook-and-instagrams-news-blackout-in-canada-starts-today-182139785.html",
-        "urlToImage": "https://s.yimg.com/uu/api/res/1.2/g3m1MzFQ57pEF202yXffSQ--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-images/2020-02/57b39e80-4ec3-11ea-bdbc-bf356bea768e.cf.jpg",
-        "publishedAt": "2023-08-01T18:21:39Z",
-        "content": "As promised, Meta\r\n has begun blocking news content in Canada. Starting today, Facebook\r\n and Instagram\r\n users in the country will no longer be able to view or share news links or see videos and pho… [+1502 chars]"
-    },
-    {
-        "source": {
-            "id": "the-verge",
-            "name": "The Verge"
-        },
-        "author": "Emilia David",
-        "title": "News outlets demand new rules for AI training data",
-        "description": "In an open letter, news organizations called on governments to require copyright protections in AI training models.",
-        "url": "https://www.theverge.com/2023/8/10/23827316/news-transparency-copyright-generative-ai",
-        "urlToImage": "https://cdn.vox-cdn.com/thumbor/YmfPiQaCDRZjL1kuejynWiwZwHI=/0x0:640x427/1200x628/filters:focal(320x214:321x215)/cdn.vox-cdn.com/assets/2364559/AP_logo_640.jpg",
-        "publishedAt": "2023-08-10T16:18:25Z",
-        "content": "News outlets demand new rules for AI training data\r\nNews outlets demand new rules for AI training data\r\n / Several news organizations released an open letter calling for more transparency and copyrig… [+2799 chars]"
-    },
-    {
-        "source": {
-            "id": "engadget",
-            "name": "Engadget"
-        },
-        "author": "Mariella Moon",
-        "title": "Google is reportedly testing an AI tool that can generate news articles",
-        "description": "Google is testing a new AI technology codenamed \"Genesis\" that can generate news articles, according to The New York Times. The tech giant has reportedly demonstrated the tool not just for The Times, but also for executives at The Washington Post and News Cor…",
-        "url": "https://www.engadget.com/google-is-reportedly-testing-an-ai-tool-that-can-generate-news-articles-054602544.html",
-        "urlToImage": "https://s.yimg.com/uu/api/res/1.2/bYdQJFcdoqTuE_102ynQew--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-07/f2a5e070-26b4-11ee-bffb-655df49b92b8.cf.jpg",
-        "publishedAt": "2023-07-20T05:46:02Z",
-        "content": "Google is testing a new AI technology codenamed \"Genesis\" that can generate news articles, according to The New York Times. The tech giant has reportedly demonstrated the tool not just for The Times,… [+1682 chars]"
-    },
-    {
-        "source": {
-            "id": "the-verge",
-            "name": "The Verge"
-        },
-        "author": "Jay Peters",
-        "title": "Artifact is getting an AI-powered text-to-speech feature to read you the news",
-        "description": "Artifact — the news app from Instagram co-founders Kevin Systrom and Mike Krieger — is adding an AI-powered text-to-speech feature that will read you news articles. Snoop Dogg and Gwyneth Paltrow are two of the voices that you can listen to.",
-        "url": "https://www.theverge.com/2023/7/27/23810160/artifact-ai-text-to-speech-read-news-snoop-dogg-gwyneth-paltrow-speechify",
-        "urlToImage": "https://cdn.vox-cdn.com/thumbor/rpTHbSwAKA8czdjitxZ-LYPm4Ps=/0x0:3578x2272/1200x628/filters:focal(1789x1136:1790x1137)/cdn.vox-cdn.com/uploads/chorus_asset/file/24814014/Verge.png",
-        "publishedAt": "2023-07-27T18:00:00Z",
-        "content": "Artifact is getting an AI-powered text-to-speech feature to read you the news\r\nArtifact is getting an AI-powered text-to-speech feature to read you the news\r\n / Snoop Dogg and Gwyneth Paltrow are two… [+1618 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Gizmodo.com"
-        },
-        "author": "Sabina Graves",
-        "title": "The Latest News From Disney Parks, Universal Studios Resorts, and What to See at SDCC 2023",
-        "description": "Summer isn’t over yet; theme parks are still drawing crowds, and San Diego Comic-Con 2023 is arriving later this week. Despite the ongoing WGA and SAG-AFTRA strikes, the annual event still has plenty of pop-culture activations scheduled for fans, many of whic…",
-        "url": "https://gizmodo.com/theme-park-news-universal-studios-disney-parks-sdcc-23-1850648432",
-        "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/5dda4663fca0dc9bd2ab0fca5fb28581.jpg",
-        "publishedAt": "2023-07-18T00:30:00Z",
-        "content": "Summer isnt over yet; theme parks are still drawing crowds, and San Diego Comic-Con 2023 is arriving later this week. Despite the ongoing WGA and SAG-AFTRA strikes, the annual event still has plenty … [+634 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Gizmodo.com"
-        },
-        "author": "Lucas Ropek",
-        "title": "OpenAI Throws a Paltry $5 Million at Journalism Philanthropy in Attempt to Spur AI-Driven News",
-        "description": "OpenAI is on a quest to conquer the world—and it’s doing pretty well on that front. It’s ascended to the heights of industry. It’s managed to suck up to politicians in countries scattered across the planet. And now it’s begun a charm offensive aimed at an ent…",
-        "url": "https://gizmodo.com/openai-american-journalism-project-sam-altman-ai-1850651397",
-        "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/4b2dc3a0c1e98f494e6555efd09a4275.jpg",
-        "publishedAt": "2023-07-18T21:20:00Z",
-        "content": "OpenAI is on a quest to conquer the worldand its doing pretty well on that front. Its ascended to the heights of industry. Its managed to suck up to politicians in countries scattered across the plan… [+4248 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Gizmodo.com"
-        },
-        "author": "James Whitbrook",
-        "title": "This Week's Toy News Is Full of Spiders, Grasshoppers, and Miners",
-        "description": "Welcome back to Toy Aisle, io9's weekly roundup of the coolest toy news around the internet. This week, Hot Toys delves into Kamen Rider, Bandai debuts its chonky new Godzilla, and NECA’s Gargoyles line gives us the Iron Man Jonathan Frakes of our dreams. Che…",
-        "url": "https://gizmodo.com/hot-toys-dark-knight-joker-kamen-rider-black-sun-1850691764",
-        "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/95771b3a14ad3ffe47114aa13feaf447.png",
-        "publishedAt": "2023-07-31T15:15:00Z",
-        "content": "Welcome back to Toy Aisle, io9's weekly roundup of the coolest toy news around the internet. This week, Hot Toys delves into Kamen Rider, Bandai debuts its chonky new Godzilla, and NECAs Gargoyles li… [+3732 chars]"
-    },
-    {
-        "source": {
-            "id": "wired",
-            "name": "Wired"
-        },
-        "author": "Amanda Hoover",
-        "title": "This Is the Era of Zombie Twitter",
-        "description": "The bird may be dead, but Twitter—er, X—is still alive for communities, news, and memes.",
-        "url": "https://www.wired.com/story/x-twitter-rebrand-dead/",
-        "urlToImage": "https://media.wired.com/photos/64c42b437b25a434b1f3bfd4/191:100/w_1280,c_limit/The-Era-Of-Zombie-Twitter-Business-112181355.jpg",
-        "publishedAt": "2023-07-29T11:00:00Z",
-        "content": "The bird is dead, but zombie Twitter is not. Since Elon Musk bought Twitter, the platform has survived rate-limiting, massive staff cuts, suspensions of journalists, hemorrhaging ad dollars, exorbita… [+3246 chars]"
-    },
-    {
-        "source": {
-            "id": "engadget",
-            "name": "Engadget"
-        },
-        "author": "Devindra Hardawar",
-        "title": "Engadget Podcast: Samsung’s foldable summer",
-        "description": "Samsung made a huge flex this week by hosting its first Unpacked event in Seoul, South Korea (sorry NYC!). In this episode, Cherlynn, Devindra and Senior Writer Sam Rutherford dive into all of Samsung’s news: The Galaxy Z Fold 5, Z Flip 5, Watch 6 and Tab S9.…",
-        "url": "https://www.engadget.com/engadget-podcast-samsung-galaxy-z-fold-5-123038156.html",
-        "urlToImage": "https://s.yimg.com/uu/api/res/1.2/tdmZDSyzf3jjlI17q4HATQ--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2020-05/f43b53b0-909f-11ea-87fd-d8d721459924.cf.jpg",
-        "publishedAt": "2023-07-28T12:30:38Z",
-        "content": "Samsung made a huge flex this week by hosting its first Unpacked event in Seoul, South Korea (sorry NYC!). In this episode, Cherlynn, Devindra and Senior Writer Sam Rutherford dive into all of Samsun… [+1630 chars]"
-    },
-    {
-        "source": {
-            "id": "ars-technica",
-            "name": "Ars Technica"
-        },
-        "author": "Benj Edwards",
-        "title": "Google demos “unsettling” tool to help journalists write the news",
-        "description": "\"Genesis\" will seek to assist journalists, not replace them—yet.",
-        "url": "https://arstechnica.com/information-technology/2023/07/google-demos-unsettling-tool-to-help-journalists-write-the-news/",
-        "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/robot_journalist_2-760x380.jpg",
-        "publishedAt": "2023-07-20T17:01:13Z",
-        "content": "Enlarge/ An AI-generated image of a \"robot journalist.\"\r\n40 with \r\nGoogle has been developing tools aimed at helping journalists write news articles, reports The New York Times and Reuters. It has de… [+3329 chars]"
-    },
-    {
-        "source": {
-            "id": "google-news",
-            "name": "Google News"
-        },
-        "author": null,
-        "title": "Meta permanently ending news availability on its platforms in Canada starting today - CBC News",
-        "description": "<ol><li>Meta permanently ending news availability on its platforms in Canada starting today  CBC News\r\n</li><li>Bill C-18: Canadian news removed from Facebook, Instagram  CTV News\r\n</li><li>EDITOR'S NOTE: Prepare to lose access to local news on Facebook, Goog…",
-        "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LmNiYy5jYS9uZXdzL3BvbGl0aWNzL21ldGEtZW5kaW5nLW5ld3MtYXZhaWxhYmlsaXR5LXBlcm1hbmVudGx5LTEuNjkyNDM3MNIBIGh0dHBzOi8vd3d3LmNiYy5jYS9hbXAvMS42OTI0Mzcw?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-        "urlToImage": null,
-        "publishedAt": "2023-08-01T18:00:19Z",
-        "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
-    },
-    {
-        "source": {
-            "id": "google-news",
-            "name": "Google News"
-        },
-        "author": null,
-        "title": "Ottawa real estate: Home prices increase $37,800 year-over-year | CTV News - CTV News Ottawa",
-        "description": "<ol><li>Ottawa real estate: Home prices increase $37,800 year-over-year | CTV News  CTV News Ottawa\r\n</li><li>There is a weird standoff in the housing market, people are stuck in their homes: Vancouver realtor  BNN Bloomberg\r\n</li><li>Sales activity slows as …",
-        "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vb3R0YXdhLmN0dm5ld3MuY2Evb3R0YXdhLWhvbWUtcHJpY2VzLWluY3JlYXNlLTM3LTgwMC15ZWFyLW92ZXIteWVhci0xLjY1MDU0NzbSAQA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-        "urlToImage": null,
-        "publishedAt": "2023-08-03T16:36:00Z",
-        "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
-    },
-    {
-        "source": {
-            "id": "google-news",
-            "name": "Google News"
-        },
-        "author": null,
-        "title": "Ukraine news: Russian strike on Odessa leaves 1 dead - CTV News",
-        "description": "<ol><li>Ukraine news: Russian strike on Odessa leaves 1 dead  CTV News\r\n</li><li>Russian attack on port city Odesa kills one, damages historic cathedral  The Globe and Mail\r\n</li><li>Latest Russian strike on Odesa leaves 1 dead, many hurt and a cathedral badl…",
-        "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMihwFodHRwczovL3d3dy5jdHZuZXdzLmNhL3dvcmxkL3J1c3NpYW4tc3RyaWtlLW9uLXVrcmFpbmUtcy1vZGVzc2EtYmFkbHktZGFtYWdlcy1sYW5kbWFyay1vcnRob2RveC1jYXRoZWRyYWwtMS1kZWFkLW1hbnktd291bmRlZC0xLjY0OTA3MjPSAQA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-        "urlToImage": null,
-        "publishedAt": "2023-07-23T11:35:00Z",
-        "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
-    },
-    {
-        "source": {
-            "id": "google-news",
-            "name": "Google News"
-        },
-        "author": null,
-        "title": "Trump news: Georgia prosecutor to seek grand jury indictment - CTV News",
-        "description": "<ol><li>Trump news: Georgia prosecutor to seek grand jury indictment  CTV News\r\n</li><li>Fulton County DA says work is done in Trump probe and ‘we’re ready to go’  CNN\r\n</li><li>Georgia's Broad Racketeering Law May Now Ensnare Donald Trump  The New Yorker\r\n</…",
-        "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LmN0dm5ld3MuY2Evd29ybGQvdHJ1bXAtY291bGQtYmUtaW5kaWN0ZWQtc29vbi1pbi1nZW9yZ2lhLWhlcmUtcy1hLWxvb2stYXQtdGhhdC1pbnZlc3RpZ2F0aW9uLTEuNjUwMDU2OdIBAA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-        "urlToImage": null,
-        "publishedAt": "2023-07-31T11:41:53Z",
-        "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
-    },
-    {
-        "source": {
-            "id": "the-verge",
-            "name": "The Verge"
-        },
-        "author": "Makena Kelly",
-        "title": "Chronological feeds won’t fix platform polarization, new Meta-backed research suggests",
-        "description": "Facebook and Instagram users see wildly different political news in their feeds depending on their political beliefs, but chronological feeds won’t fix the problem, new research suggests.",
-        "url": "https://www.theverge.com/2023/7/27/23808979/meta-instagram-facebook-2020-election-study-polarization",
-        "urlToImage": "https://cdn.vox-cdn.com/thumbor/DqpBchfHXLCGqNYYmQys8cAgqA4=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23951353/STK043_VRG_Illo_N_Barclay_3_Meta.jpg",
-        "publishedAt": "2023-07-27T18:00:00Z",
-        "content": "Chronological feeds wont fix platform polarization, new Meta-backed research suggests\r\nChronological feeds wont fix platform polarization, new Meta-backed research suggests\r\n / Conservative users saw… [+6647 chars]"
-    },
-    {
-        "source": {
-            "id": "google-news",
-            "name": "Google News"
-        },
-        "author": null,
-        "title": "Cracks spike on US inventory drawdown — TradingView News - TradingView",
-        "description": "Cracks spike on US inventory drawdown — TradingView News  TradingView",
-        "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LnRyYWRpbmd2aWV3LmNvbS9uZXdzL3JldXRlcnMuY29tLDIwMjM6bmV3c21sX0wxTjM5UTFXVzowLWNyYWNrcy1zcGlrZS1vbi11cy1pbnZlbnRvcnktZHJhd2Rvd24v0gEA?oc%3D5%26hl%3Den-CA%26gl%3DCA%26ceid%3DCA:en&gl=FR&hl=en-CA&cm=2&pc=n&src=1",
-        "urlToImage": null,
-        "publishedAt": "2023-08-09T17:19:50Z",
-        "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
-    },
-    {
-        "source": {
-            "id": "google-news",
-            "name": "Google News"
-        },
-        "author": null,
-        "title": "Cracks steady amid slowing exports — TradingView News - TradingView",
-        "description": "Cracks steady amid slowing exports — TradingView News  TradingView",
-        "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LnRyYWRpbmd2aWV3LmNvbS9uZXdzL3JldXRlcnMuY29tLDIwMjM6bmV3c21sX0wxTjM5TDFTWDowLWNyYWNrcy1zdGVhZHktYW1pZC1zbG93aW5nLWV4cG9ydHMv0gEA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-        "urlToImage": null,
-        "publishedAt": "2023-08-04T16:40:38Z",
-        "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
-    },
-    {
-        "source": {
-            "id": "google-news",
-            "name": "Google News"
-        },
-        "author": null,
-        "title": "Cracks hold steady in thin trading — TradingView News - TradingView",
-        "description": "Cracks hold steady in thin trading — TradingView News  TradingView",
-        "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LnRyYWRpbmd2aWV3LmNvbS9uZXdzL3JldXRlcnMuY29tLDIwMjM6bmV3c21sX0wxTjM5NDFWNzowLWNyYWNrcy1ob2xkLXN0ZWFkeS1pbi10aGluLXRyYWRpbmcv0gEA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-        "urlToImage": null,
-        "publishedAt": "2023-07-18T16:38:33Z",
-        "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
-    },
-    {
-        "source": {
-            "id": "google-news",
-            "name": "Google News"
-        },
-        "author": null,
-        "title": "US oil may test resistance at $80.93 — TradingView News - TradingView",
-        "description": "US oil may test resistance at $80.93 — TradingView News  TradingView",
-        "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LnRyYWRpbmd2aWV3LmNvbS9uZXdzL3JldXRlcnMuY29tLDIwMjM6bmV3c21sX0wxTjM5SDA0MDowLXVzLW9pbC1tYXktdGVzdC1yZXNpc3RhbmNlLWF0LTgwLTkzL9IBAA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-        "urlToImage": null,
-        "publishedAt": "2023-07-31T02:52:00Z",
-        "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
-    },
-    {
-        "source": {
-            "id": "google-news",
-            "name": "Google News"
-        },
-        "author": null,
-        "title": "U.S. June factory orders data — TradingView News - TradingView",
-        "description": "U.S. June factory orders data — TradingView News  TradingView",
-        "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LnRyYWRpbmd2aWV3LmNvbS9uZXdzL3JldXRlcnMuY29tLDIwMjMtMDgtMDM6bmV3c21sX0FQTjBaOUdOSDowLXUtcy1qdW5lLWZhY3Rvcnktb3JkZXJzLWRhdGEv0gEA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-        "urlToImage": null,
-        "publishedAt": "2023-08-03T14:08:16Z",
-        "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
-    },
-    {
-        "source": {
-            "id": "google-news",
-            "name": "Google News"
-        },
-        "author": null,
-        "title": "US oil may retest resistance at $77.33 — TradingView News - TradingView",
-        "description": "US oil may retest resistance at $77.33 — TradingView News  TradingView",
-        "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LnRyYWRpbmd2aWV3LmNvbS9uZXdzL3JldXRlcnMuY29tLDIwMjM6bmV3c21sX0wxTjM5NzA1RDowLXVzLW9pbC1tYXktcmV0ZXN0LXJlc2lzdGFuY2UtYXQtNzctMzMv0gEA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-        "urlToImage": null,
-        "publishedAt": "2023-07-21T03:17:00Z",
-        "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
-    }
-  ]
-}
+    "news": [
+      {
+          "source": {
+              "id": "engadget",
+              "name": "Engadget"
+          },
+          "author": "Kris Holt",
+          "title": "Facebook and Instagram’s news blackout in Canada starts today",
+          "description": "As promised, Meta\r\n has begun blocking news content in Canada. Starting today, Facebook\r\n and Instagram\r\n users in the country will no longer be able to view or share news links or see videos and photos posted by publishers and broadcasters. The company, whic…",
+          "url": "https://www.engadget.com/facebook-and-instagrams-news-blackout-in-canada-starts-today-182139785.html",
+          "urlToImage": "https://s.yimg.com/uu/api/res/1.2/g3m1MzFQ57pEF202yXffSQ--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-images/2020-02/57b39e80-4ec3-11ea-bdbc-bf356bea768e.cf.jpg",
+          "publishedAt": "2023-08-01T18:21:39Z",
+          "content": "As promised, Meta\r\n has begun blocking news content in Canada. Starting today, Facebook\r\n and Instagram\r\n users in the country will no longer be able to view or share news links or see videos and pho… [+1502 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Gizmodo.com"
+          },
+          "author": "Lucas Ropek",
+          "title": "OpenAI Throws a Paltry $5 Million at Journalism Philanthropy in Attempt to Spur AI-Driven News",
+          "description": "OpenAI is on a quest to conquer the world—and it’s doing pretty well on that front. It’s ascended to the heights of industry. It’s managed to suck up to politicians in countries scattered across the planet. And now it’s begun a charm offensive aimed at an ent…",
+          "url": "https://gizmodo.com/openai-american-journalism-project-sam-altman-ai-1850651397",
+          "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/4b2dc3a0c1e98f494e6555efd09a4275.jpg",
+          "publishedAt": "2023-07-18T21:20:00Z",
+          "content": "OpenAI is on a quest to conquer the worldand its doing pretty well on that front. Its ascended to the heights of industry. Its managed to suck up to politicians in countries scattered across the plan… [+4248 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Gizmodo.com"
+          },
+          "author": "James Whitbrook",
+          "title": "This Week's Toy News Is Full of Spiders, Grasshoppers, and Miners",
+          "description": "Welcome back to Toy Aisle, io9's weekly roundup of the coolest toy news around the internet. This week, Hot Toys delves into Kamen Rider, Bandai debuts its chonky new Godzilla, and NECA’s Gargoyles line gives us the Iron Man Jonathan Frakes of our dreams. Che…",
+          "url": "https://gizmodo.com/hot-toys-dark-knight-joker-kamen-rider-black-sun-1850691764",
+          "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/95771b3a14ad3ffe47114aa13feaf447.png",
+          "publishedAt": "2023-07-31T15:15:00Z",
+          "content": "Welcome back to Toy Aisle, io9's weekly roundup of the coolest toy news around the internet. This week, Hot Toys delves into Kamen Rider, Bandai debuts its chonky new Godzilla, and NECAs Gargoyles li… [+3732 chars]"
+      },
+      {
+          "source": {
+              "id": "wired",
+              "name": "Wired"
+          },
+          "author": "Amanda Hoover",
+          "title": "This Is the Era of Zombie Twitter",
+          "description": "The bird may be dead, but Twitter—er, X—is still alive for communities, news, and memes.",
+          "url": "https://www.wired.com/story/x-twitter-rebrand-dead/",
+          "urlToImage": "https://media.wired.com/photos/64c42b437b25a434b1f3bfd4/191:100/w_1280,c_limit/The-Era-Of-Zombie-Twitter-Business-112181355.jpg",
+          "publishedAt": "2023-07-29T11:00:00Z",
+          "content": "The bird is dead, but zombie Twitter is not. Since Elon Musk bought Twitter, the platform has survived rate-limiting, massive staff cuts, suspensions of journalists, hemorrhaging ad dollars, exorbita… [+3246 chars]"
+      },
+      {
+          "source": {
+              "id": "engadget",
+              "name": "Engadget"
+          },
+          "author": "Devindra Hardawar",
+          "title": "Engadget Podcast: Samsung’s foldable summer",
+          "description": "Samsung made a huge flex this week by hosting its first Unpacked event in Seoul, South Korea (sorry NYC!). In this episode, Cherlynn, Devindra and Senior Writer Sam Rutherford dive into all of Samsung’s news: The Galaxy Z Fold 5, Z Flip 5, Watch 6 and Tab S9.…",
+          "url": "https://www.engadget.com/engadget-podcast-samsung-galaxy-z-fold-5-123038156.html",
+          "urlToImage": "https://s.yimg.com/uu/api/res/1.2/tdmZDSyzf3jjlI17q4HATQ--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2020-05/f43b53b0-909f-11ea-87fd-d8d721459924.cf.jpg",
+          "publishedAt": "2023-07-28T12:30:38Z",
+          "content": "Samsung made a huge flex this week by hosting its first Unpacked event in Seoul, South Korea (sorry NYC!). In this episode, Cherlynn, Devindra and Senior Writer Sam Rutherford dive into all of Samsun… [+1630 chars]"
+      },
+      {
+          "source": {
+              "id": "ars-technica",
+              "name": "Ars Technica"
+          },
+          "author": "Benj Edwards",
+          "title": "Google demos “unsettling” tool to help journalists write the news",
+          "description": "\"Genesis\" will seek to assist journalists, not replace them—yet.",
+          "url": "https://arstechnica.com/information-technology/2023/07/google-demos-unsettling-tool-to-help-journalists-write-the-news/",
+          "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/robot_journalist_2-760x380.jpg",
+          "publishedAt": "2023-07-20T17:01:13Z",
+          "content": "Enlarge/ An AI-generated image of a \"robot journalist.\"\r\n40 with \r\nGoogle has been developing tools aimed at helping journalists write news articles, reports The New York Times and Reuters. It has de… [+3329 chars]"
+      },
+      {
+          "source": {
+              "id": "google-news",
+              "name": "Google News"
+          },
+          "author": null,
+          "title": "Ottawa real estate: Home prices increase $37,800 year-over-year | CTV News - CTV News Ottawa",
+          "description": "<ol><li>Ottawa real estate: Home prices increase $37,800 year-over-year | CTV News  CTV News Ottawa\r\n</li><li>There is a weird standoff in the housing market, people are stuck in their homes: Vancouver realtor  BNN Bloomberg\r\n</li><li>Sales activity slows as …",
+          "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vb3R0YXdhLmN0dm5ld3MuY2Evb3R0YXdhLWhvbWUtcHJpY2VzLWluY3JlYXNlLTM3LTgwMC15ZWFyLW92ZXIteWVhci0xLjY1MDU0NzbSAQA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+          "urlToImage": null,
+          "publishedAt": "2023-08-03T16:36:00Z",
+          "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+      },
+      {
+          "source": {
+              "id": "google-news",
+              "name": "Google News"
+          },
+          "author": null,
+          "title": "Meta permanently ending news availability on its platforms in Canada starting today - CBC News",
+          "description": "<ol><li>Meta permanently ending news availability on its platforms in Canada starting today  CBC News\r\n</li><li>Bill C-18: Canadian news removed from Facebook, Instagram  CTV News\r\n</li><li>EDITOR'S NOTE: Prepare to lose access to local news on Facebook, Goog…",
+          "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LmNiYy5jYS9uZXdzL3BvbGl0aWNzL21ldGEtZW5kaW5nLW5ld3MtYXZhaWxhYmlsaXR5LXBlcm1hbmVudGx5LTEuNjkyNDM3MNIBIGh0dHBzOi8vd3d3LmNiYy5jYS9hbXAvMS42OTI0Mzcw?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+          "urlToImage": null,
+          "publishedAt": "2023-08-01T18:00:19Z",
+          "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+      },
+      {
+          "source": {
+              "id": "google-news",
+              "name": "Google News"
+          },
+          "author": null,
+          "title": "Ukraine news: Russian strike on Odessa leaves 1 dead - CTV News",
+          "description": "<ol><li>Ukraine news: Russian strike on Odessa leaves 1 dead  CTV News\r\n</li><li>Russian attack on port city Odesa kills one, damages historic cathedral  The Globe and Mail\r\n</li><li>Latest Russian strike on Odesa leaves 1 dead, many hurt and a cathedral badl…",
+          "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMihwFodHRwczovL3d3dy5jdHZuZXdzLmNhL3dvcmxkL3J1c3NpYW4tc3RyaWtlLW9uLXVrcmFpbmUtcy1vZGVzc2EtYmFkbHktZGFtYWdlcy1sYW5kbWFyay1vcnRob2RveC1jYXRoZWRyYWwtMS1kZWFkLW1hbnktd291bmRlZC0xLjY0OTA3MjPSAQA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+          "urlToImage": null,
+          "publishedAt": "2023-07-23T11:35:00Z",
+          "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+      },
+      {
+          "source": {
+              "id": "google-news",
+              "name": "Google News"
+          },
+          "author": null,
+          "title": "UN chief: Multinational force needed in Haiti | DW News - DW News",
+          "description": "UN chief: Multinational force needed in Haiti | DW News  DW NewsView Full Coverage on Google News",
+          "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CCAiC3liaVBDNW9NYlVvmAEB?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+          "urlToImage": null,
+          "publishedAt": "2023-08-16T21:44:01Z",
+          "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+      },
+      {
+          "source": {
+              "id": "google-news",
+              "name": "Google News"
+          },
+          "author": null,
+          "title": "Trump news: Georgia prosecutor to seek grand jury indictment - CTV News",
+          "description": "<ol><li>Trump news: Georgia prosecutor to seek grand jury indictment  CTV News\r\n</li><li>Fulton County DA says work is done in Trump probe and ‘we’re ready to go’  CNN\r\n</li><li>Georgia's Broad Racketeering Law May Now Ensnare Donald Trump  The New Yorker\r\n</…",
+          "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LmN0dm5ld3MuY2Evd29ybGQvdHJ1bXAtY291bGQtYmUtaW5kaWN0ZWQtc29vbi1pbi1nZW9yZ2lhLWhlcmUtcy1hLWxvb2stYXQtdGhhdC1pbnZlc3RpZ2F0aW9uLTEuNjUwMDU2OdIBAA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+          "urlToImage": null,
+          "publishedAt": "2023-07-31T11:41:53Z",
+          "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+      },
+      {
+          "source": {
+              "id": "the-verge",
+              "name": "The Verge"
+          },
+          "author": "Makena Kelly",
+          "title": "Chronological feeds won’t fix platform polarization, new Meta-backed research suggests",
+          "description": "Facebook and Instagram users see wildly different political news in their feeds depending on their political beliefs, but chronological feeds won’t fix the problem, new research suggests.",
+          "url": "https://www.theverge.com/2023/7/27/23808979/meta-instagram-facebook-2020-election-study-polarization",
+          "urlToImage": "https://cdn.vox-cdn.com/thumbor/DqpBchfHXLCGqNYYmQys8cAgqA4=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23951353/STK043_VRG_Illo_N_Barclay_3_Meta.jpg",
+          "publishedAt": "2023-07-27T18:00:00Z",
+          "content": "Chronological feeds wont fix platform polarization, new Meta-backed research suggests\r\nChronological feeds wont fix platform polarization, new Meta-backed research suggests\r\n / Conservative users saw… [+6647 chars]"
+      },
+      {
+          "source": {
+              "id": "google-news",
+              "name": "Google News"
+          },
+          "author": null,
+          "title": "Cracks steady amid slowing exports — TradingView News - TradingView",
+          "description": "Cracks steady amid slowing exports — TradingView News  TradingView",
+          "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LnRyYWRpbmd2aWV3LmNvbS9uZXdzL3JldXRlcnMuY29tLDIwMjM6bmV3c21sX0wxTjM5TDFTWDowLWNyYWNrcy1zdGVhZHktYW1pZC1zbG93aW5nLWV4cG9ydHMv0gEA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+          "urlToImage": null,
+          "publishedAt": "2023-08-04T16:40:38Z",
+          "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+      },
+      {
+          "source": {
+              "id": "google-news",
+              "name": "Google News"
+          },
+          "author": null,
+          "title": "Cracks spike on US inventory drawdown — TradingView News - TradingView",
+          "description": "Cracks spike on US inventory drawdown — TradingView News  TradingView",
+          "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LnRyYWRpbmd2aWV3LmNvbS9uZXdzL3JldXRlcnMuY29tLDIwMjM6bmV3c21sX0wxTjM5UTFXVzowLWNyYWNrcy1zcGlrZS1vbi11cy1pbnZlbnRvcnktZHJhd2Rvd24v0gEA?oc%3D5%26hl%3Den-CA%26gl%3DCA%26ceid%3DCA:en&gl=FR&hl=en-CA&cm=2&pc=n&src=1",
+          "urlToImage": null,
+          "publishedAt": "2023-08-09T17:19:50Z",
+          "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+      },
+      {
+          "source": {
+              "id": "google-news",
+              "name": "Google News"
+          },
+          "author": null,
+          "title": "Cracks hold steady in thin trading — TradingView News - TradingView",
+          "description": "Cracks hold steady in thin trading — TradingView News  TradingView",
+          "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LnRyYWRpbmd2aWV3LmNvbS9uZXdzL3JldXRlcnMuY29tLDIwMjM6bmV3c21sX0wxTjM5NDFWNzowLWNyYWNrcy1ob2xkLXN0ZWFkeS1pbi10aGluLXRyYWRpbmcv0gEA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+          "urlToImage": null,
+          "publishedAt": "2023-07-18T16:38:33Z",
+          "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+      },
+      {
+          "source": {
+              "id": "google-news",
+              "name": "Google News"
+          },
+          "author": null,
+          "title": "US oil may retest resistance at $77.33 — TradingView News - TradingView",
+          "description": "US oil may retest resistance at $77.33 — TradingView News  TradingView",
+          "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LnRyYWRpbmd2aWV3LmNvbS9uZXdzL3JldXRlcnMuY29tLDIwMjM6bmV3c21sX0wxTjM5NzA1RDowLXVzLW9pbC1tYXktcmV0ZXN0LXJlc2lzdGFuY2UtYXQtNzctMzMv0gEA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+          "urlToImage": null,
+          "publishedAt": "2023-07-21T03:17:00Z",
+          "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+      },
+      {
+          "source": {
+              "id": "google-news",
+              "name": "Google News"
+          },
+          "author": null,
+          "title": "CBS News president Khemlani steps down - New York Times - Reuters",
+          "description": "CBS News president Khemlani steps down - New York Times  Reuters",
+          "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LnJldXRlcnMuY29tL2J1c2luZXNzL21lZGlhLXRlbGVjb20vY2JzLW5ld3MtcHJlc2lkZW50LWtoZW1sYW5pLXN0ZXBzLWRvd24tbmV3LXlvcmstdGltZXMtMjAyMy0wOC0xMy_SAQA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+          "urlToImage": null,
+          "publishedAt": "2023-08-13T22:31:56Z",
+          "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+      },
+      {
+          "source": {
+              "id": "google-news",
+              "name": "Google News"
+          },
+          "author": null,
+          "title": "Asia Morning Call-Global Markets — TradingView News - TradingView",
+          "description": "Asia Morning Call-Global Markets — TradingView News  TradingView",
+          "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LnRyYWRpbmd2aWV3LmNvbS9uZXdzL3JldXRlcnMuY29tLDIwMjM6bmV3c21sX0w0TjM5TjA5MzowLWFzaWEtbW9ybmluZy1jYWxsLWdsb2JhbC1tYXJrZXRzL9IBAA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+          "urlToImage": null,
+          "publishedAt": "2023-08-06T18:31:04Z",
+          "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+      }
+    ],
+    "sports": [
+      {
+          "source": {
+              "id": "wired",
+              "name": "Wired"
+          },
+          "author": "Amit Katwala",
+          "title": "'EA Sports FC' Just Killed 'FIFA 24'",
+          "description": "\"EA Sports FC 2024\" has secured deals with the Premier League, La Liga, and the UEFA Champions League. The new \"FIFA\" game doesn’t stand a chance.",
+          "url": "https://www.wired.com/story/ea-sports-fc-24-fifa-24/",
+          "urlToImage": "https://media.wired.com/photos/64b6962b6296ebb3f0861532/191:100/w_1280,c_limit/Culture-EA-FC24_Screenshot_EPL_4k_CityCele.jpg",
+          "publishedAt": "2023-07-18T15:00:00Z",
+          "content": "In May of last year, EA Sports confirmed that its 30-year partnership with FIFA, soccers governing body, was coming to an endwhich, if youd been playing FIFA (the game) since forever, was earth-shaki… [+2914 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "The Guardian"
+          },
+          "author": "",
+          "title": "World Sports Photography awards 2023 – in pictures",
+          "description": "More than 700 photographers from over 70 countries around the world entered the 2023 World Sports Photography awards which is the only global competition for sport photography, with golfing in the clouds capturing the judges eye to be named the overall compet…",
+          "url": "https://www.theguardian.com/sport/gallery/2023/aug/05/world-sports-photography-awards-2023-in-pictures",
+          "urlToImage": "https://i.guim.co.uk/img/media/a450758d0a28ee92b75ba1aaf77619d4e27f21c2/0_130_4440_2664/master/4440.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a57787ca5461723b4a2b73e2db1eab82",
+          "publishedAt": "2023-08-04T15:00:20Z",
+          "content": "More than 700 photographers from over 70 countries around the world entered the 2023 World Sports Photography awards which is the only global competition for sport photography, with golfing in the cl… [+71 chars]"
+      },
+      {
+          "source": {
+              "id": "wired",
+              "name": "Wired"
+          },
+          "author": "Amanda Hoover",
+          "title": "This Is the Era of Zombie Twitter",
+          "description": "The bird may be dead, but Twitter—er, X—is still alive for communities, news, and memes.",
+          "url": "https://www.wired.com/story/x-twitter-rebrand-dead/",
+          "urlToImage": "https://media.wired.com/photos/64c42b437b25a434b1f3bfd4/191:100/w_1280,c_limit/The-Era-Of-Zombie-Twitter-Business-112181355.jpg",
+          "publishedAt": "2023-07-29T11:00:00Z",
+          "content": "The bird is dead, but zombie Twitter is not. Since Elon Musk bought Twitter, the platform has survived rate-limiting, massive staff cuts, suspensions of journalists, hemorrhaging ad dollars, exorbita… [+3246 chars]"
+      },
+      {
+          "source": {
+              "id": "google-news",
+              "name": "Google News"
+          },
+          "author": null,
+          "title": "JD Sports to take full ownership of Poland's MIG - Reuters",
+          "description": "JD Sports to take full ownership of Poland's MIG  Reuters",
+          "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LnJldXRlcnMuY29tL21hcmtldHMvZGVhbHMvamQtc3BvcnRzLXRha2UtZnVsbC1vd25lcnNoaXAtcG9sYW5kcy1taWctMjAyMy0wOC0wOC_SAQA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+          "urlToImage": null,
+          "publishedAt": "2023-08-08T16:49:07Z",
+          "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+      },
+      {
+          "source": {
+              "id": "google-news",
+              "name": "Google News"
+          },
+          "author": null,
+          "title": "Sports broadcaster sues parent Sinclair, alleging $1.5 billion fraud - Reuters",
+          "description": "Sports broadcaster sues parent Sinclair, alleging $1.5 billion fraud  Reuters",
+          "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LnJldXRlcnMuY29tL2xlZ2FsL3Nwb3J0cy1icm9hZGNhc3Rlci1zdWVzLXBhcmVudC1zaW5jbGFpci1hbGxlZ2luZy0xNS1iaWxsaW9uLWZyYXVkLTIwMjMtMDgtMTYv0gEA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+          "urlToImage": null,
+          "publishedAt": "2023-08-16T22:46:00Z",
+          "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+      },
+      {
+          "source": {
+              "id": "ars-technica",
+              "name": "Ars Technica"
+          },
+          "author": "Ars Contributors",
+          "title": "A great idea or sacrilege? We test a Jaguar E-Type converted to EV",
+          "description": "Electrogenic's powertrain suits the 1960s sports car, but this is no restomod.",
+          "url": "https://arstechnica.com/cars/2023/07/a-great-idea-or-sacrilege-we-test-a-jaguar-e-type-converted-to-ev/",
+          "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/Electrogenic-electric-Jaguar-E-Type-Alex-Goy-5-760x380.jpg",
+          "publishedAt": "2023-07-31T17:19:24Z",
+          "content": "Enlarge/ Replacing the XK engine in this Jaguar E-Type won't meet with everyone's approval. But if it's not your classic car, who cares?\r\n31 with \r\nFew things are as wonderful as classic cars. They c… [+4795 chars]"
+      },
+      {
+          "source": {
+              "id": "google-news",
+              "name": "Google News"
+          },
+          "author": null,
+          "title": "Los Angeles 2028 decision on new sports in next few weeks-IFAF - Flipboard",
+          "description": "Los Angeles 2028 decision on new sports in next few weeks-IFAF  Flipboard",
+          "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiuQFodHRwczovL2ZsaXBib2FyZC5jb20vQG5rYWtpdGEvbXktd2ViLXdhbmRlcmluZ3MtczJwMjFtZWJ6L2xvcy1hbmdlbGVzLTIwMjgtZGVjaXNpb24tb24tbmV3LXNwb3J0cy1pbi1uZXh0LWZldy13ZWVrcy1pZmFmL2EtQnJtVDluZkdSZ2E0ZDhzNFlDdEhFdyUzQWElM0ExNjMwMzE3LTM0MGY4YTViNTMlMkZyZXV0ZXJzLmNvbdIBxAFodHRwczovL2ZsaXBib2FyZC5jb20vQG5rYWtpdGEvbXktd2ViLXdhbmRlcmluZ3MtczJwMjFtZWJ6L2xvcy1hbmdlbGVzLTIwMjgtZGVjaXNpb24tb24tbmV3LXNwb3J0cy1pbi1uZXh0LWZldy13ZWVrcy1pZmFmL2EtQnJtVDluZkdSZ2E0ZDhzNFlDdEhFdyUzQWElM0ExNjMwMzE3LTM0MGY4YTViNTMlMkZyZXV0ZXJzLmNvbT9mb3JtYXQ9YW1w?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+          "urlToImage": null,
+          "publishedAt": "2023-08-14T15:38:59Z",
+          "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+      },
+      {
+          "source": {
+              "id": "ars-technica",
+              "name": "Ars Technica"
+          },
+          "author": "Jonathan M. Gitlin",
+          "title": "The 2023 Porsche Cayman GT4 RS is the best sports car on sale today",
+          "description": "Transplanting the 911 GT3's flat-six engine created a remarkable car.",
+          "url": "https://arstechnica.com/cars/2023/07/the-2023-porsche-cayman-gt4-rs-is-the-best-sports-car-on-sale-today/",
+          "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/09-2023-Porsche-Cayman-GT4-RS-760x380.jpg",
+          "publishedAt": "2023-07-29T11:00:29Z",
+          "content": "Enlarge/ Everyone always said Porsche would never put its best flat-six engine in the Cayman or it would overshadow the 911. Maybe that's exactly what's happened.\r\n2 with \r\nJudging by recent projects… [+3853 chars]"
+      },
+      {
+          "source": {
+              "id": "ars-technica",
+              "name": "Ars Technica"
+          },
+          "author": "Kyle Orland",
+          "title": "Lenovo’s answer to Steam Deck, Legion Go, sports Switch-like detachable controls",
+          "description": "Product shots also show off kickstand, large 8\" screen, and tons of buttons.",
+          "url": "https://arstechnica.com/gaming/2023/08/lenovos-answer-to-steam-deck-legion-go-sports-switch-like-detachable-controls/",
+          "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/legiongo-760x380.jpg",
+          "publishedAt": "2023-08-17T14:08:26Z",
+          "content": "Enlarge/ Those controllers look awfully joyful. You might call them... joyful-controllers.\r\n9 with \r\nA few weeks ago, we heard the first reports about Lenovo's Legion Pro, the company's planned answe… [+2594 chars]"
+      },
+      {
+          "source": {
+              "id": "engadget",
+              "name": "Engadget"
+          },
+          "author": "Billy Steele",
+          "title": "How to stream the FIFA Women’s World Cup 2023",
+          "description": "It’s a sporting spectacle that only happens once every four years. The FIFA Women’s World Cup returns this week as the United States Women’s National Team seeks a historic third-straight title. Will the US be able to repeat the magic it unlocked in 2015 and 2…",
+          "url": "https://www.engadget.com/how-to-stream-the-fifa-womens-world-cup-2023-190052838.html",
+          "urlToImage": "https://s.yimg.com/uu/api/res/1.2/wfQoPqxa0HHVDlwcniQiVA--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-07/658ca060-24cb-11ee-8afb-e37c1f428e50.cf.jpg",
+          "publishedAt": "2023-07-19T19:00:52Z",
+          "content": "Its a sporting spectacle that only happens once every four years. The FIFA Womens World Cup returns this week as the United States Womens National Team seeks a historic third-straight title. Will the… [+3263 chars]"
+      },
+      {
+          "source": {
+              "id": "google-news",
+              "name": "Google News"
+          },
+          "author": null,
+          "title": "Women's World Cup 2023: How Canada can advance to knockout stage - Yahoo Canada Sports",
+          "description": "<ol><li>Women's World Cup 2023: How Canada can advance to knockout stage  Yahoo Canada Sports\r\n</li><li>Thanks to Nigeria's upset win, Canada finds itself in Women's World Cup logjam  CBC Sports\r\n</li><li>Video: Super Falcons Defender Ashleigh Plumptre Displa…",
+          "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMibmh0dHBzOi8vY2Euc3BvcnRzLnlhaG9vLmNvbS9uZXdzL3dvbWVucy13b3JsZC1jdXAtMjAyMy1ob3ctY2FuYWRhLWNhbi1hZHZhbmNlLXRvLWtub2Nrb3V0LXN0YWdlLTE2Mjk0OTgxMS5odG1s0gF2aHR0cHM6Ly9jYS5zcG9ydHMueWFob28uY29tL2FtcGh0bWwvbmV3cy93b21lbnMtd29ybGQtY3VwLTIwMjMtaG93LWNhbmFkYS1jYW4tYWR2YW5jZS10by1rbm9ja291dC1zdGFnZS0xNjI5NDk4MTEuaHRtbA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+          "urlToImage": null,
+          "publishedAt": "2023-07-27T16:29:49Z",
+          "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+      },
+      {
+          "source": {
+              "id": "business-insider",
+              "name": "Business Insider"
+          },
+          "author": "Jennifer Sor",
+          "title": "PENN Entertainment stock jumps 20% after striking $2 billion sports-betting deal with ESPN",
+          "description": "Penn Entertainment will partner will ESPN to launch ESPN Bets, a new US-based sports-betting platform.",
+          "url": "https://markets.businessinsider.com/news/stocks/penn-entertainment-stock-price-espn-bets-sports-betting-barstool-disney-2023-8",
+          "urlToImage": "https://i.insider.com/64d3896082eb770019b8d208?width=1200&format=jpeg",
+          "publishedAt": "2023-08-09T13:35:50Z",
+          "content": "In this photo illustration the ESPN logo seen displayed on a smartphone.Mateusz Slodkowski/SOPA Images/LightRocket via Getty Images\r\n<ul>\n<li>PENN Entertainment stock spiked 20% on Wednesday after an… [+1954 chars]"
+      },
+      {
+          "source": {
+              "id": "engadget",
+              "name": "Engadget"
+          },
+          "author": "Steve Dent",
+          "title": "Meta is launching a UFC-themed VR experience in Horizon Worlds",
+          "description": "Meta has teamed up with UFC to bring live mixed martial arts (MMA) in VR to Horizon Worlds, the company announced in a Quest Blog post seen by The Verge. The experience, launching in November, will let UFC Fight Pass subscribers (via Xtadium and YBVR streamin…",
+          "url": "https://www.engadget.com/meta-is-launching-a-ufc-themed-vr-experience-in-horizon-worlds-060904144.html",
+          "urlToImage": "https://s.yimg.com/uu/api/res/1.2/fAcpZtfwIYsv81Bj_I5wFA--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-08/13693a20-31bc-11ee-bf9f-76c1e44f84a1.cf.jpg",
+          "publishedAt": "2023-08-03T06:09:04Z",
+          "content": "Meta has teamed up with UFC to bring live mixed martial arts (MMA) in VR to Horizon Worlds, the company announced in a Quest Blog post seen by The Verge. The experience, launching in November, will l… [+1715 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "The Guardian"
+          },
+          "author": "Emma John at Lord's",
+          "title": "Like the world’s best sports day: state-school cricketers take over Lord’s | Emma John",
+          "description": "Drama of National Hubs final day is thrilling, and the community spirit of these groups will have a lasting impactIt was a perfect captain’s innings, and the Lord’s crowd knew it. There was a standing ovation for Megan Russell as she walked up the pavilion st…",
+          "url": "https://www.theguardian.com/sport/2023/jul/29/cricket-national-hubs-finals-day-lords-bolton-guildford",
+          "urlToImage": "https://i.guim.co.uk/img/media/b1d0fa30f70120c90aca824ae00078fc1304a5db/378_687_4697_2818/master/4697.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdG8tZGVmYXVsdC5wbmc&enable=upscale&s=1901791e4f1fe0f89e384de91cbc411f",
+          "publishedAt": "2023-07-29T16:52:48Z",
+          "content": "It was a perfect captains innings, and the Lords crowd knew it. There was a standing ovation for Megan Russell as she walked up the pavilion steps and through the Long Room on Saturday, 50 not out. H… [+9741 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "The Guardian"
+          },
+          "author": "Jasper Jolly",
+          "title": "Lotus produces record 2,200 sports cars in first half of 2023",
+          "description": "British carmaker also gearing up for sales of new Eletre electric SUV under Chinese owner Geely’s expansion plansThe British carmaker Lotus produced a record number of sports cars in the first half of 2023, as it gears up for a huge push behind sales of a new…",
+          "url": "https://www.theguardian.com/business/2023/aug/10/lotus-produce-record-2200-sports-cars-first-half-2023-eletre-electric-suv",
+          "urlToImage": "https://i.guim.co.uk/img/media/da4efd0d591a757e600b4142ea1b23dacccc9fe0/0_161_4928_2957/master/4928.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6b80e7e581610b20793446900664d3c8",
+          "publishedAt": "2023-08-09T23:01:38Z",
+          "content": "The British carmaker Lotus produced a record number of sports cars in the first half of 2023, as it gears up for a huge push behind sales of a new electric SUV under its Chinese owners expansion plan… [+8213 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "The Guardian"
+          },
+          "author": "Nick Ames",
+          "title": "Arctos Sports Partners the frontrunner to buy minority stake in PSG",
+          "description": "<ul><li>American investment group could finalise deal within months</li><li>Move designed to bolster PSG’s ability to compete in Europe</li></ul>The American investment group Arctos Sports Partners is the frontrunner to buy a minority stake in Paris Saint-Ger…",
+          "url": "https://www.theguardian.com/football/2023/aug/09/arctos-sports-partners-paris-saint-germain-psg-football",
+          "urlToImage": "https://i.guim.co.uk/img/media/bdd676cdbbae87794d63cfb81c35c413feb7a93b/0_186_5488_3293/master/5488.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f358a5ec06499622d2f000e3429c9c46",
+          "publishedAt": "2023-08-09T16:02:02Z",
+          "content": "The American investment group Arctos Sports Partners is the frontrunner to buy a minority stake in Paris Saint-Germain and a deal could be concluded within months, the Guardian understands.\r\nArctos h… [+7720 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "The Guardian"
+          },
+          "author": "Paul Campbell",
+          "title": "Sports quiz of the week: Harry Kane, Anthony Joshua and the Challenge Cup",
+          "description": "Test your knowledge of the big stories in rugby, cycling, netball, boxing, Women’s World Cup and return of the Premier League Continue reading...",
+          "url": "https://www.theguardian.com/sport/2023/aug/11/sports-quiz-week-kane-joshua-challenge-cup-football-premier-league-womens-world-cup",
+          "urlToImage": "https://i.guim.co.uk/img/media/c6395a95be3eb83a1150cab5360855b29e5155e2/0_0_5000_3000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=760e155939977194433f92eb4d375f07",
+          "publishedAt": "2023-08-11T08:38:42Z",
+          "content": "Test your knowledge of the big stories in rugby, cycling, netball, boxing, Womens World Cup and return of the Premier League"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Hipertextual"
+          },
+          "author": "Luis del Barco",
+          "title": "EA Sports FC Mobile: todo lo que tienes que saber sobre el nuevo ‘FIFA’ para iOS y Android",
+          "description": "EA Sports FC 24 Mobile será el reemplazo al mítico FIFA Mobile, dando una nueva vida al título para smartphones. Un movimiento que llega después de que el desarrollador y el organismo regulador del fútbol mundial no hayan llegado a un acuerdo por los derechos…",
+          "url": "http://hipertextual.com/2023/08/ea-sports-fc-mobile-lanzamiento-detalles",
+          "urlToImage": "https://imgs.hipertextual.com/wp-content/uploads/2023/08/Vini-jr-ea-sports-fc-mobile.jpg",
+          "publishedAt": "2023-08-12T19:00:22Z",
+          "content": "EA Sports FC 24 Mobile será el reemplazo al mítico FIFA Mobile, dando una nueva vida al título para smartphones. Un movimiento que llega después de que el desarrollador y el organismo regulador del f… [+2961 chars]"
+      }
+    ],
+    "entertainment": [
+      {
+          "source": {
+              "id": "wired",
+              "name": "Wired"
+          },
+          "author": "Elizabeth Minkel",
+          "title": "At a Comic-Con Without Hollywood, Fans Show Their Allegiances",
+          "description": "With striking actors unable to participate in flashy events, the convention went back to its roots—and attendees got a glimpse of the future of culture.",
+          "url": "https://www.wired.com/story/hollywood-strike-comic-con-2023-fandom/",
+          "urlToImage": "https://media.wired.com/photos/64baeb3e3d9e6b1cb17a8a57/191:100/w_1280,c_limit/Hollywood-Strike-at-Comic-Con-Culture-GettyImages-1546725646.jpg",
+          "publishedAt": "2023-07-24T16:32:55Z",
+          "content": "On the surface,Comic-Con International 2023 looked like it did in years past. Throngs of fans, many in costume, crowded intersections beneath glossy advertisements for television shows dozens of stor… [+3989 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Lifehacker.com"
+          },
+          "author": "Beth Skwarecki",
+          "title": "Check Your Peloton for a Secret Netflix App",
+          "description": "For an exercise bike with a giant screen on it, you would think Peloton would give you an easy way to watch movies while you pedal. But until recently, the screen was just for workout-related content. Some Peloton users—including myself—have found that there …",
+          "url": "https://lifehacker.com/check-your-peloton-for-a-secret-netflix-app-1850699394",
+          "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/b69692c13281969e931692ccda5ae37f.jpg",
+          "publishedAt": "2023-08-02T14:30:00Z",
+          "content": "For an exercise bike with a giant screen on it, you would think Peloton would give you an easy way to watch movies while you pedal. But until recently, the screen was just for workout-related content… [+3053 chars]"
+      },
+      {
+          "source": {
+              "id": "wired",
+              "name": "Wired"
+          },
+          "author": "Jason Parham",
+          "title": "The New Minstrels Are Here",
+          "description": "AI-generated video and images are ushering in an ungovernable reality—where the remixing of stereotypes is not only accepted, but big business.",
+          "url": "https://www.wired.com/story/new-minstrels-generative-ai/",
+          "urlToImage": "https://media.wired.com/photos/64b07e366279e364728446a7/191:100/w_1280,c_limit/FOE3_2.jpg",
+          "publishedAt": "2023-07-21T10:00:00Z",
+          "content": "Left unchecked, the visual culture of entertainment is headed into a phase of post-authenticity, a period where artificial media will have an even more damaging impact on how culture is made, represe… [+3030 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Gizmodo.com"
+          },
+          "author": "Cheryl Eddy",
+          "title": "The WGA and the AMPTP Will Continue Negotiations Tomorrow",
+          "description": "As the writers’ and actors’ strikes continue in Hollywood—and the effects keep rippling across the entertainment industry, like today’s announcement that the Emmy Awards have been bumped to January—there’s a glimmer of hope, in the form of continuing negotiat…",
+          "url": "https://gizmodo.com/writers-strike-update-wga-amptp-negotiating-continues-1850726070",
+          "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/7a574cc5c4fa991117b01ed3612b6363.jpg",
+          "publishedAt": "2023-08-10T19:00:00Z",
+          "content": "As the writers and actors strikes continue in Hollywoodand the effects keep rippling across the entertainment industry, like todays announcement that the Emmy Awards have been bumped to Januarytheres… [+1122 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Gizmodo.com"
+          },
+          "author": "Linda Codega",
+          "title": "Voice Actors Are Fighting Back Against Generative AI",
+          "description": "“We’ve got to reject the idea that [AI] is just something that’s going to happen to us and we can’t say anything about it,” said SAG-AFTRA national executive director, Duncan Crabtree-Ireland at the beginning of a panel focusing on AI and entertainment. “I th…",
+          "url": "https://gizmodo.com/sdcc-2023-voice-actors-ai-sag-strike-1850668591",
+          "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/0405ed010edd17ea35dc4af75476648d.png",
+          "publishedAt": "2023-07-23T21:00:00Z",
+          "content": "Weve got to reject the idea that [AI] is just something thats going to happen to us and we cant say anything about it, said SAG-AFTRA national executive director, Duncan Crabtree-Ireland at the begin… [+1986 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Gizmodo.com"
+          },
+          "author": "Justin Carter",
+          "title": "TMNT: Mutant Mayhem Director Says Movie Was Made With Animators' Health in Mind",
+          "description": "Across various slices of entertainment, crunch and overwork have become big problems. Though it’s been commonly talked about in video games in recent years, those discussions have bloomed over into animation, as we saw with Spider-Man: Across the Spider-Verse…",
+          "url": "https://gizmodo.com/tmnt-mutant-mayhem-no-crunch-production-1850714828",
+          "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/8319b748a3e5ae9fa115edf19bb2ae04.jpg",
+          "publishedAt": "2023-08-07T21:15:00Z",
+          "content": "Across various slices of entertainment, crunch and overwork have become big problems. Though its been commonly talked about in video games in recent years, those discussions have bloomed over into an… [+1767 chars]"
+      },
+      {
+          "source": {
+              "id": "google-news",
+              "name": "Google News"
+          },
+          "author": null,
+          "title": "AMC Entertainment to effect 10:1 reverse split on Aug. 24 - Reuters",
+          "description": "AMC Entertainment to effect 10:1 reverse split on Aug. 24  Reuters",
+          "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LnJldXRlcnMuY29tL2J1c2luZXNzL2FtYy1lbnRlcnRhaW5tZW50LWVmZmVjdC0xMDEtcmV2ZXJzZS1zcGxpdC1hdWctMjQtMjAyMy0wOC0xNC_SAQA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+          "urlToImage": null,
+          "publishedAt": "2023-08-14T13:33:00Z",
+          "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+      },
+      {
+          "source": {
+              "id": "google-news",
+              "name": "Google News"
+          },
+          "author": null,
+          "title": "Carnival North returns with more entertainment, lower price - CollingwoodToday.ca",
+          "description": "<ol><li>Carnival North returns with more entertainment, lower price  CollingwoodToday.ca\r\n</li><li>The Toronto Caribbean Carnival is about more than just the costumes  TVO Today\r\n</li><li>Toronto Caribbean Festival Parade Hits Toronto This Weekend  Global New…",
+          "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LmNvbGxpbmd3b29kdG9kYXkuY2EvbG9jYWwtbmV3cy9jYXJuaXZhbC1ub3J0aC1yZXR1cm5zLXdpdGgtbW9yZS1lbnRlcnRhaW5tZW50LWxvd2VyLXByaWNlLTczNDYwMzHSAQA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+          "urlToImage": null,
+          "publishedAt": "2023-08-02T16:00:00Z",
+          "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "The Guardian"
+          },
+          "author": "Guardian Staff",
+          "title": "From Joy Ride to Carly Rae Jepsen: a complete guide to this week’s entertainment",
+          "description": "A business deal goes wildly awry in a road trip comedy from a Crazy Rich Asians writer, while the Canadian pop star shows off a more playful side on her new albumJoy RideOut nowDirected by one of the writers of Crazy Rich Asians, this sorta-kinda road trip st…",
+          "url": "https://www.theguardian.com/culture/2023/aug/05/going-out-staying-in-complete-guide-to-this-weeks-entertainment",
+          "urlToImage": "https://i.guim.co.uk/img/media/094e117fafeb5a07074eefa1f321118fa3803e72/3_108_2440_1464/master/2440.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c7abf57f2bcbfdab0408831a29f59ea9",
+          "publishedAt": "2023-08-05T05:00:33Z",
+          "content": "Going out:Cinema\r\nJoy RideOut nowDirected by one of the writers of Crazy Rich Asians, this sorta-kinda road trip stars a quartet of sorta-kinda friends, played by Ashley Park, Sherry Cola, Stephanie … [+9592 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "The Guardian"
+          },
+          "author": "Guardian Staff",
+          "title": "From Talk to Me to Wizkid: a complete guide to this week’s entertainment",
+          "description": "There’s a creepy hand causing all manner of devilry in a superb Aussie horror film, and the Afrobeats honcho rocks the Tottenham Hotspur StadiumTalk to MeOut nowA group of teenagers use an embalmed hand to conjure spirits from the beyond, in the kind of “sure…",
+          "url": "https://www.theguardian.com/culture/2023/jul/29/talk-to-me-wizkid-complete-guide-to-this-weeks-entertainment",
+          "urlToImage": "https://i.guim.co.uk/img/media/18054a1ea1f2e72c86452243445d2c0f2a19b341/262_482_2964_1779/master/2964.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=08c05c2d9753d3d5d38e8850dfe01606",
+          "publishedAt": "2023-07-29T05:00:30Z",
+          "content": "Going 0ut:Cinema\r\nTalk to MeOut nowA group of teenagers use an embalmed hand to conjure spirits from the beyond, in the kind of surely you would never scenario that always turns out so well for chara… [+10355 chars]"
+      },
+      {
+          "source": {
+              "id": "google-news",
+              "name": "Google News"
+          },
+          "author": null,
+          "title": "Angus Cloud Death: Mom Reports ‘Possible Overdose’ on 911 Call - Entertainment Tonight",
+          "description": "<ol><li>Angus Cloud Death: Mom Reports ‘Possible Overdose’ on 911 Call  Entertainment Tonight\r\n</li><li>Grief can take us to the darkest of places - why don’t we take it seriously?  The Guardian\r\n</li><li>Euphoria star Angus Cloud dies aged 25 - Entertainment…",
+          "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CCAiC0FlQzJ0TlNnN1k4mAEB?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+          "urlToImage": null,
+          "publishedAt": "2023-08-02T00:00:04Z",
+          "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+      },
+      {
+          "source": {
+              "id": "wired",
+              "name": "Wired"
+          },
+          "author": "Angela Watercutter",
+          "title": "‘Barbenheimer’ Signals the Start of Hollywood’s Apocalypse",
+          "description": "This weekend, two of the most anticipated movies of the year, Barbie and Oppenheimer, hit theaters. It’s an event that could save cinema—right before it implodes.",
+          "url": "https://www.wired.com/story/barbie-oppenheimer-barbenheimer-hollywood-future/",
+          "urlToImage": "https://media.wired.com/photos/64b9ae9d0124a91cee27dba2/191:100/w_1280,c_limit/Barbenheimer-Signals-Hollywood-Apocalypse-Culture-Everett-MCDOPPE_UV014.jpg",
+          "publishedAt": "2023-07-21T11:00:00Z",
+          "content": "Barbenheimerthe collective celebration around the release of the Barbie and Oppenheimer movieshas collided with the wedding industrial complex. Thats not a joke. According to a Variety story this wee… [+2670 chars]"
+      }
+    ],
+    "life": [
+      {
+          "source": {
+              "id": "wired",
+              "name": "Wired"
+          },
+          "author": "Philip Ball",
+          "title": "A New Idea for How to Assemble Life",
+          "description": "How would scientists even recognize biological signs of life beyond Earth? Assembly theory proposes a way to identify molecules made by living systems—even those using unfamiliar chemistries.",
+          "url": "https://www.wired.com/story/a-new-idea-for-how-to-assemble-life/",
+          "urlToImage": "https://media.wired.com/photos/64d633fd2db7cd67f965363d/191:100/w_1280,c_limit/Quanta_AssemblyTheory-bySamuelVelasco-Lede-scaled-copy.jpg",
+          "publishedAt": "2023-08-13T12:00:00Z",
+          "content": "According to assembly theory, before Darwinian evolution can proceed, something has to select for multiple copies of high-AI objects from the Assembly Possible. Chemistry alone, Cronin said, might be… [+3395 chars]"
+      },
+      {
+          "source": {
+              "id": "engadget",
+              "name": "Engadget"
+          },
+          "author": "Jon Fingas",
+          "title": "The Sonos Move 2 will reportedly offer stereo audio and 24-hour battery life",
+          "description": "The original Sonos Move stood out as one of the few fully connected portable speakers when it debuted in 2019, but technology has moved on since then — and so, apparently, has Sonos. The Vergeclaims to have leaked details of a Move 2 speaker that promises maj…",
+          "url": "https://www.engadget.com/the-sonos-move-2-will-reportedly-offer-stereo-audio-and-24-hour-battery-life-181950125.html",
+          "urlToImage": "https://s.yimg.com/uu/api/res/1.2/ufKTOHHqbEuq1y3QHHkSHw--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-08/4c6ed8c0-3158-11ee-bafa-70007abd4c43.cf.jpg",
+          "publishedAt": "2023-08-02T18:19:50Z",
+          "content": "The original Sonos Move stood out as one of the few fully connected portable speakers when it debuted in 2019, but technology has moved on since then and so, apparently, has Sonos. The Vergeclaims to… [+1719 chars]"
+      },
+      {
+          "source": {
+              "id": "wired",
+              "name": "Wired"
+          },
+          "author": "Megan Farokhmanesh",
+          "title": "'Baby Steps': We Can't Wait for This Failure-to-Launch Adventure",
+          "description": "Life is hard, the future is uncertain, but the trio behind Ape Out want you to escape your troubles—one step at a time.",
+          "url": "https://www.wired.com/story/baby-steps-failure-to-launch-2024/",
+          "urlToImage": "https://media.wired.com/photos/64dbefe9211451f12eaefe7f/191:100/w_1280,c_limit/1686265133322_Mudslide_culture_nbtji8-copy.jpg",
+          "publishedAt": "2023-08-16T15:12:47Z",
+          "content": "Like many great video game ideas, Baby Steps began with three friends and one butt. A very large one at that, the kind that set the internet ablaze with thirsty cries of thicc when Bennett Foddy, Gab… [+2886 chars]"
+      },
+      {
+          "source": {
+              "id": "the-verge",
+              "name": "The Verge"
+          },
+          "author": "Wes Davis",
+          "title": "The Pixel Watch 2 may get multi-day battery life and a UWB chip",
+          "description": "A rumor says the Pixel Watch 2 is getting a new Qualcomm wearable chip that should bring much better battery life versus the original Pixel Watch, as well as an ultra-wideband chip for better Find My Device support.",
+          "url": "https://www.theverge.com/2023/8/5/23821335/google-pixel-watch-2-rumor-better-battery-life-snapdragon-w5-uwb-android",
+          "urlToImage": "https://cdn.vox-cdn.com/thumbor/3paMOCSkJrw9oAYvNX0YuWuP1Nk=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24016884/STK093_Google_05.jpg",
+          "publishedAt": "2023-08-05T19:25:01Z",
+          "content": "The Pixel Watch 2 may get multi-day battery life and a UWB chip\r\nThe Pixel Watch 2 may get multi-day battery life and a UWB chip\r\n / A new rumor backs up that Googles Android watch will get a new Sna… [+2173 chars]"
+      },
+      {
+          "source": {
+              "id": "the-verge",
+              "name": "The Verge"
+          },
+          "author": "Jon Porter",
+          "title": "Urbanista turns its solar-powered smarts to a Bluetooth speaker",
+          "description": "Urbanista’s Malibu Bluetooth speaker is equipped with solar cells that could extend its battery life indefinitely. It costs $149 (£149 / €169) and goes on sale in late September.",
+          "url": "https://www.theverge.com/2023/8/16/23834467/urbanista-malibu-solar-powered-bluetooth-speaker-price-release-dates-specs-details",
+          "urlToImage": "https://cdn.vox-cdn.com/thumbor/KzG4KIi-YoFAD45H2GrvK4dBh0o=/0x0:4936x3290/1200x628/filters:focal(2468x1645:2469x1646)/cdn.vox-cdn.com/uploads/chorus_asset/file/24854102/Malibu_MidnightBlack_PH_001.jpg",
+          "publishedAt": "2023-08-16T16:31:08Z",
+          "content": "Urbanista turns its solar-powered smarts to a Bluetooth speaker\r\nUrbanista turns its solar-powered smarts to a Bluetooth speaker\r\n / The Malibu is a waterproof speaker that Urbanista claims might nev… [+2809 chars]"
+      },
+      {
+          "source": {
+              "id": "the-verge",
+              "name": "The Verge"
+          },
+          "author": "Tom Warren",
+          "title": "Sony’s latest PS5 beta supports Dolby Atmos and up to 8TB of M.2 SSD storage",
+          "description": "Sony’s latest PS5 beta update includes some great quality of life improvements. Dolby Atmos support and up to 8TB of M.2 SSD storage are the big additions.",
+          "url": "https://www.theverge.com/2023/7/31/23813778/sony-playstation-5-dolby-atmos-support-8tb-m2-storage",
+          "urlToImage": "https://cdn.vox-cdn.com/thumbor/bzPXSkptg2uE3JUVBy9jmLDKI8w=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/22015304/vpavic_4278_20201030_0247.jpg",
+          "publishedAt": "2023-07-31T09:44:42Z",
+          "content": "Sonys latest PS5 beta supports Dolby Atmos and up to 8TB of M.2 SSD storage\r\nSonys latest PS5 beta supports Dolby Atmos and up to 8TB of M.2 SSD storage\r\n / Todays release also includes UI improvemen… [+2968 chars]"
+      },
+      {
+          "source": {
+              "id": "wired",
+              "name": "Wired"
+          },
+          "author": "Damien Patrick Williams",
+          "title": "Zoom Became a Part of Daily Life. It Needs to Tell Users Exactly How It's Using Their Data",
+          "description": "Zoom is populated by our faces, our voices, and more. If companies like it want to use customer data to train their AI—now or in the future—they need to let people choose if, and how much, to opt in.",
+          "url": "https://www.wired.com/story/zoom-became-a-part-of-daily-life-it-needs-to-tell-users-exactly-how-its-using-their-data/",
+          "urlToImage": "https://media.wired.com/photos/64d42b1a984161b7583de53d/191:100/w_1280,c_limit/ideas_zoom_ai_data_privacy.jpg",
+          "publishedAt": "2023-08-10T13:00:00Z",
+          "content": "Recently, Zoom amendedits terms of service to grant itself the right to use any assetssuch as video recordings, audio transcripts, or shared fileseither uploaded or generated by \"users\" or \"customers… [+4884 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Lifehacker.com"
+          },
+          "author": "Brianne Hogan",
+          "title": "The Best and Worst Ways to Explain a Career Break",
+          "description": "Finding a job is tough these days, especially given the circumstances surrounding the pandemic and recession, and, you know, life. A survey published earlier this year revealed that 68% of workers have experienced a gap in their employment, with 39% citing fa…",
+          "url": "https://lifehacker.com/the-best-and-worst-ways-to-explain-a-career-break-1850727691",
+          "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/30e65dfe006145319d29b11d3a4f0c42.jpg",
+          "publishedAt": "2023-08-11T12:30:00Z",
+          "content": "Finding a job is tough these days, especially given the circumstances surrounding the pandemic and recession, and, you know, life. A survey published earlier this year revealed that 68% of workers ha… [+5450 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Lifehacker.com"
+          },
+          "author": "Emily Long",
+          "title": "This Number on Your Boarding Pass Reveals a Ton of Personal Data",
+          "description": "Posting a photo of your boarding pass for your upcoming trip on social media may seem harmless, but while you’re enjoying your vacation, scammers might be using a few pieces of data from your ticket to wreak havoc on your life. As security experts interviewed…",
+          "url": "https://lifehacker.com/this-number-on-your-boarding-pass-reveals-a-ton-of-pers-1850651165",
+          "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/3f2d9b2a2c6e50186d5bedfc716ce870.jpg",
+          "publishedAt": "2023-07-18T16:30:00Z",
+          "content": "Posting a photo of your boarding pass for your upcoming trip on social media may seem harmless, but while youre enjoying your vacation, scammers might be using a few pieces of data from your ticket t… [+2388 chars]"
+      }
+    ],
+    "money": [
+      {
+          "source": {
+              "id": null,
+              "name": "Lifehacker.com"
+          },
+          "author": "Amanda Blum",
+          "title": "Save Money Gardening by Growing Your Own Perennials From Seed",
+          "description": "Perennials are the returning summer guests that pop up with gifts each year. Plant them once and you’ll see them grow larger and more prolific every summer season. That’s the upside.Read more...",
+          "url": "https://lifehacker.com/save-money-gardening-by-growing-your-own-perennials-fro-1850669309",
+          "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/9039bb899fb0542fc5fb16dd7deacd8f.jpg",
+          "publishedAt": "2023-07-24T18:00:00Z",
+          "content": "Perennials are the returning summer guests that pop up with gifts each year. Plant them once and youll see them grow larger and more prolific every summer season. Thats the upside.\r\nThe downside is t… [+4158 chars]"
+      },
+      {
+          "source": {
+              "id": "engadget",
+              "name": "Engadget"
+          },
+          "author": "Mariella Moon",
+          "title": "Spotify grew far more than expected, but is still losing money",
+          "description": "In the second quarter of 2023, Spotify saw its million monthly active users (MAU) climb to 551 million after welcoming 36 million new listeners. That represents a 27 percent increase in MAUs and is an all-time high for the streaming giant, which has just publ…",
+          "url": "https://www.engadget.com/spotify-grew-far-more-than-expected-but-is-still-losing-money-121553523.html",
+          "urlToImage": "https://s.yimg.com/uu/api/res/1.2/Auj2nxTBGZPDgOafrq49iw--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2022-11/2f464630-70f0-11ed-9d77-7df6056fc59e.cf.jpg",
+          "publishedAt": "2023-07-25T12:15:53Z",
+          "content": "In the second quarter of 2023, Spotify saw its million monthly active users (MAU) climb to 551 million after welcoming 36 million new listeners. That represents a 27 percent increase in MAUs and is a… [+2127 chars]"
+      },
+      {
+          "source": {
+              "id": "wired",
+              "name": "Wired"
+          },
+          "author": "Ryan Waniata",
+          "title": "Hisense U8K Review: A Great Screen For Well-Lit Rooms",
+          "description": "This bright Mini-LED TV gives much more expensive screens a run for their money.",
+          "url": "https://www.wired.com/review/hisense-u8k/",
+          "urlToImage": "https://media.wired.com/photos/64cd48892cc57777ec67f2cb/191:100/w_1280,c_limit/Hisense-U8K-Featured-Gear.jpg",
+          "publishedAt": "2023-08-07T11:00:00Z",
+          "content": "With great power comes great responsibility. Thats just one of the lessons I learned from Spider-Man over the years or, in this case, his various uncle Bens. I think any Ben Parker would be proud of … [+3240 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Gizmodo.com"
+          },
+          "author": "Kevin Hurler",
+          "title": "For the First Time, Uber Made Some Money",
+          "description": "Ride-sharing giant Uber finally has some good news. Uber has reportedly made operating profit for the first time in the company’s history, fueled by a post-pandemic demand for rides and a seemingly successful push toward food delivery. Read more...",
+          "url": "https://gizmodo.com/uber-made-an-operating-profit-for-the-first-time-1850695258",
+          "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/32380930832e5bd2f590e5e3fdca0836.jpg",
+          "publishedAt": "2023-08-01T15:10:00Z",
+          "content": "Ride-sharing giant Uber finally has some good news. Uber has reportedly made operating profit for the first time in the companys history, fueled by a post-pandemic demand for rides and a seemingly su… [+2226 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Gizmodo.com"
+          },
+          "author": "Nikki Main",
+          "title": "Bank of Ireland ATM Glitch Hands Out 'Free' Money",
+          "description": "People queued up outside the Bank of Ireland on Tuesday after a glitch in the system appeared to allow customers to withdraw money without affecting their balance. The bank, which is one of the largest in Ireland, acknowledged the glitch on Wednesday, saying …",
+          "url": "https://gizmodo.com/bank-of-ireland-atm-glitch-hands-out-free-money-1850742692",
+          "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/358f8c709383fc6acf2ed55eb423a85b.jpg",
+          "publishedAt": "2023-08-16T13:50:00Z",
+          "content": "People queued up outside the Bank of Ireland on Tuesday after a glitch in the system appeared to allow customers to withdraw money without affecting their balance. The bank, which is one of the large… [+2395 chars]"
+      },
+      {
+          "source": {
+              "id": "google-news",
+              "name": "Google News"
+          },
+          "author": null,
+          "title": "AI lesson for Microsoft and Google: Spend money to make money - Reuters",
+          "description": "AI lesson for Microsoft and Google: Spend money to make money  Reuters",
+          "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3RlY2hub2xvZ3kvYWktbGVzc29uLW1pY3Jvc29mdC1nb29nbGUtc3BlbmQtbW9uZXktbWFrZS1tb25leS0yMDIzLTA3LTI1L9IBAA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+          "urlToImage": null,
+          "publishedAt": "2023-07-26T08:57:00Z",
+          "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+      },
+      {
+          "source": {
+              "id": "bbc-news",
+              "name": "BBC News"
+          },
+          "author": "https://www.facebook.com/bbcnews",
+          "title": "Argentina cracks down on football fans who tear up money to taunt locals",
+          "description": "The practice has become a common way for foreign fans to taunt locals about the low value of the peso.",
+          "url": "https://www.bbc.co.uk/news/world-latin-america-66470506",
+          "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/14700/production/_130721738_gettyimages-1407002850.jpg",
+          "publishedAt": "2023-08-11T05:08:35Z",
+          "content": "Argentina has announced it will punish foreign football fans who burn or tear up bank notes while attending matches in the country.\r\nThe practice has become a common way for fans of clubs from elsewh… [+1704 chars]"
+      },
+      {
+          "source": {
+              "id": "engadget",
+              "name": "Engadget"
+          },
+          "author": "Mariella Moon",
+          "title": "Bitfinex hackers who stole billions in cryptocurrency plead guilty",
+          "description": "Ilya Lichtenstein and Heather Morgan, the couple who were arrested last year for the massive 2016 Bitfinex hack involving billions of dollars of cryptocurrency, have pleaded guilty in court. Lichtenstein has admitted that he used multiple advanced hacking too…",
+          "url": "https://www.engadget.com/bitfinex-hackers-who-stole-billions-in-cryptocurrency-plead-guilty-051317291.html",
+          "urlToImage": "https://s.yimg.com/uu/api/res/1.2/9_8v19aKCHNP19Ty34_VdA--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2022-02/22f20ad0-8ce5-11ec-abfd-e231779226e6.cf.jpg",
+          "publishedAt": "2023-08-04T05:13:17Z",
+          "content": "Ilya Lichtenstein and Heather Morgan, the couple who were arrested last year for the massive 2016 Bitfinex hack involving billions of dollars of cryptocurrency, have pleaded guilty in court. Lichtens… [+1799 chars]"
+      },
+      {
+          "source": {
+              "id": "google-news",
+              "name": "Google News"
+          },
+          "author": null,
+          "title": "Safaricom launches M-Pesa mobile money service in Ethiopia - Reuters",
+          "description": "Safaricom launches M-Pesa mobile money service in Ethiopia  Reuters",
+          "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3RlY2hub2xvZ3kvc2FmYXJpY29tLWxhdW5jaGVzLW0tcGVzYS1tb2JpbGUtbW9uZXktc2VydmljZS1ldGhpb3BpYS0yMDIzLTA4LTE2L9IBAA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+          "urlToImage": null,
+          "publishedAt": "2023-08-16T12:41:00Z",
+          "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "The Guardian"
+          },
+          "author": "Associated Press in Bogotá",
+          "title": "Colombian president’s son arrested in money-laundering inquiry",
+          "description": "Nicolás Petro held as part of investigation into funds he allegedly collected from drug traffickers during 2022 election campaignThe son of the Colombian president has been arrested s part of a high-profile money-laundering investigation into funds he alleged…",
+          "url": "https://www.theguardian.com/world/2023/jul/29/colombia-president-gustavo-petro-nicolas-petro-arrested",
+          "urlToImage": "https://i.guim.co.uk/img/media/4d79d2cbae67f0c27eafb4136fcd65d5383b51d1/0_22_1380_828/master/1380.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2a0c537dbd069d70db3f7782d8495942",
+          "publishedAt": "2023-07-29T15:46:09Z",
+          "content": "The son of the Colombian president has been arrested s part of a high-profile money-laundering investigation into funds he allegedly collected from convicted drug traffickers during last years presid… [+1859 chars]"
+      },
+      {
+          "source": {
+              "id": "engadget",
+              "name": "Engadget"
+          },
+          "author": "Kris Holt",
+          "title": "Lyft plans to ditch surge pricing, which riders hate 'with a fiery passion'",
+          "description": "Lyft\r\n plans to kill off surge pricing in an attempt to boost its rider numbers. On the company's second-quarter earnings call, CEO David Risher admitted\r\n the controversial\r\n practice is a \"a bad form of price raising\" that riders loathe \"with a fiery passio…",
+          "url": "https://www.engadget.com/lyft-plans-to-ditch-surge-pricing-which-riders-hate-with-a-fiery-passion-170028083.html",
+          "urlToImage": "https://s.yimg.com/uu/api/res/1.2/lf0V9eQPpAvL65S7zdJlmw--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-01/6423a470-a89e-11ed-abfb-8a26ca16667e.cf.jpg",
+          "publishedAt": "2023-08-09T17:00:28Z",
+          "content": "Lyft\r\n plans to kill off surge pricing in an attempt to boost its rider numbers. On the company's second-quarter earnings call, CEO David Risher admitted\r\n the controversial\r\n practice is a \"a bad fo… [+1373 chars]"
+      },
+      {
+          "source": {
+              "id": "engadget",
+              "name": "Engadget"
+          },
+          "author": "Mariella Moon",
+          "title": "Twitter is limiting the number of DMs unverified users can send",
+          "description": "Twitter has again made its platform a little less usable for people who choose not to pay for a Blue subscription. The company has announced that it will soon implement a new rule that puts a limit on the number of DMs unverified accounts can send per day. In…",
+          "url": "https://www.engadget.com/twitter-is-limiting-the-number-of-dms-unverified-users-can-send-120035602.html",
+          "urlToImage": "https://s.yimg.com/uu/api/res/1.2/Q4n2ANj.F8zPIBdcCPuNPA--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-07/15eac990-2874-11ee-9fff-c1b7f2b12b61.cf.jpg",
+          "publishedAt": "2023-07-22T12:00:35Z",
+          "content": "Twitter has again made its platform a little less usable for people who choose not to pay for a Blue subscription. The company has announced that it will soon implement a new rule that puts a limit o… [+1608 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "ReadWrite"
+          },
+          "author": "Deanna Ritchie",
+          "title": "Best Safe for Money in 2023",
+          "description": "Many companies featured on ReadWrite partner with us. Opinions are our own, but compensation and in-depth research determine how products […]\nThe post Best Safe for Money in 2023 appeared first on ReadWrite.",
+          "url": "https://readwrite.com/best-safe-for-money/",
+          "urlToImage": "https://readwrite.com/wp-content/uploads/2023/06/Untitled-design-2023-06-06T135053.225.jpg",
+          "publishedAt": "2023-08-04T02:00:28Z",
+          "content": "Review Process\r\nOur review process involved extensive research and analysis of various safes for money. We considered several factors such as security features, capacity, durability, ease of use, and… [+20340 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Lifehacker.com"
+          },
+          "author": "Meredith Dietz",
+          "title": "How I Became a Watchmaker",
+          "description": "Welcome to “How I Became,” the Lifehacker series where I ask real people about how they really got their jobs. This week I had the pleasure of chatting with Matt Chapman, a modern watchmaker. The official term is “horologist:” someone who studies the art of d…",
+          "url": "https://lifehacker.com/how-i-became-a-watchmaker-1850683340",
+          "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/19e8fb79cf75f0442069d7ff97a36b74.jpg",
+          "publishedAt": "2023-08-03T18:00:00Z",
+          "content": "Welcome to How I Became, the Lifehacker series where I ask real people about how they really got their jobs. This week I had the pleasure of chatting with Matt Chapman, a modern watchmaker. The offic… [+5491 chars]"
+      },
+      {
+          "source": {
+              "id": "business-insider",
+              "name": "Business Insider"
+          },
+          "author": "Olivia Christensen",
+          "title": "My husband says I'm being reckless with 'his' money by shopping for the family. How do we get on the same page?",
+          "description": "\"For Love & Money\" answers your relationship and money questions. This week, a reader's husband thinks she's wasting money.",
+          "url": "https://www.businessinsider.com/personal-finance/inflation-husband-thinks-wasting-his-money-2023-8",
+          "urlToImage": "https://i.insider.com/64d55121005c4a00183d9ae0?width=1200&format=jpeg",
+          "publishedAt": "2023-08-13T11:40:00Z",
+          "content": "Our experts choose the best products and services to help make smart decisions with your money (here's how). In some cases, we receive a commission from our partners; however, our opinions are our ow… [+5916 chars]"
+      },
+      {
+          "source": {
+              "id": "business-insider",
+              "name": "Business Insider"
+          },
+          "author": "Insider Inc.",
+          "title": "Compare Republic Bank of Chicago Money Market Accounts",
+          "description": "Compare Republic Bank of Chicago Money Market Accounts",
+          "url": "https://www.businessinsider.com/personal-finance/republic-bank-of-chicago-mma-bridge",
+          "urlToImage": "https://www.businessinsider.com/public/assets/BI/US/og-image-logo-social.png",
+          "publishedAt": "2023-07-21T15:52:34Z",
+          "content": "Our experts answer readers' banking questions and write unbiased product reviews (here's how we assess banking products). In some cases, we receive a commission from our partners; however, our opinio… [+181 chars]"
+      },
+      {
+          "source": {
+              "id": "business-insider",
+              "name": "Business Insider"
+          },
+          "author": "Sophia Acevedo, CEPF",
+          "title": "How much money should you keep in a CD?",
+          "description": "Discover tips to help you figure out how much money you should keep in a CD. Learn about a CD's typical minimum balance requirements and penalties.",
+          "url": "https://www.businessinsider.com/personal-finance/certificate-of-deposit-typical-minimum-balance",
+          "urlToImage": "https://i.insider.com/64c2b367cf07780019658d0d?width=1200&format=jpeg",
+          "publishedAt": "2023-07-27T21:53:55Z",
+          "content": "Our experts answer readers' banking questions and write unbiased product reviews (here's how we assess banking products). In some cases, we receive a commission from our partners; however, our opinio… [+6182 chars]"
+      },
+      {
+          "source": {
+              "id": "wired",
+              "name": "Wired"
+          },
+          "author": "Amit Katwala",
+          "title": "'EA Sports FC' Just Killed 'FIFA 24'",
+          "description": "\"EA Sports FC 2024\" has secured deals with the Premier League, La Liga, and the UEFA Champions League. The new \"FIFA\" game doesn’t stand a chance.",
+          "url": "https://www.wired.com/story/ea-sports-fc-24-fifa-24/",
+          "urlToImage": "https://media.wired.com/photos/64b6962b6296ebb3f0861532/191:100/w_1280,c_limit/Culture-EA-FC24_Screenshot_EPL_4k_CityCele.jpg",
+          "publishedAt": "2023-07-18T15:00:00Z",
+          "content": "In May of last year, EA Sports confirmed that its 30-year partnership with FIFA, soccers governing body, was coming to an endwhich, if youd been playing FIFA (the game) since forever, was earth-shaki… [+2914 chars]"
+      },
+      {
+          "source": {
+              "id": "the-verge",
+              "name": "The Verge"
+          },
+          "author": "Mia Sato",
+          "title": "Etsy sellers say a fraud protection program is destabilizing their businesses",
+          "description": "Etsy payment reserves hold funds until an order is shipped with tracking. But longtime sellers say the sudden change is destabilizing their small businesses and personal finances.",
+          "url": "https://www.theverge.com/2023/7/29/23810536/etsy-sellers-payment-reserves-fraud-protection",
+          "urlToImage": "https://cdn.vox-cdn.com/thumbor/bwbjC6-sa9VzXkTFvtkBTXvMYcA=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23985514/acastro_STK091_03.jpg",
+          "publishedAt": "2023-07-29T14:00:00Z",
+          "content": "Etsy sellers say a fraud protection program is destabilizing their businesses\r\nEtsy sellers say a fraud protection program is destabilizing their businesses\r\n / Payment reserves are supposed to prote… [+9751 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Gizmodo.com"
+          },
+          "author": "Germain Lussier",
+          "title": "Hasbro Explains How Star Wars Toys Get Chosen, and Why They Sometimes Take Forever",
+          "description": "When I was 19 years old, I stood outside a Toys “R” Us for hours, waiting for midnight so I could buy toys from Star Wars: Episode I - The Phantom Menace. It was mere weeks before the movie was released, the hype was at an all-time high, and I spent a lot of …",
+          "url": "https://gizmodo.com/star-wars-hasbro-interview-release-dates-ahsoka-toys-1850704735",
+          "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/5134fe1b93bc9534c983b744c591d4a1.jpg",
+          "publishedAt": "2023-08-04T16:15:00Z",
+          "content": "When I was 19 years old, I stood outside a Toys R Us for hours, waiting for midnight so I could buy toys fromStar Wars: Episode I - The Phantom Menace. It was mere weeks before the movie was released… [+7959 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Gizmodo.com"
+          },
+          "author": "Linda Codega",
+          "title": "The Impact of AMPTP's Refusal to Negotiate Fairly Will Add Up Fast",
+          "description": "There is nothing more satisfying than when bosses realize who does the work needed to make them money. While the WGA successfully picketed and shut down productions on both coasts, the SAG-AFTRA action shut down productions shooting internationally, like Inte…",
+          "url": "https://gizmodo.com/what-will-strike-cost-hollywood-sag-wga-amptp-1850656136",
+          "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/133d6c058239e88df2ce90a4e65bf30b.jpg",
+          "publishedAt": "2023-07-19T19:15:00Z",
+          "content": "There is nothing more satisfying than when bosses realize who does the work needed to make them money. While the WGA successfully picketed and shut down productions on both coasts, the SAG-AFTRA acti… [+2510 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Gizmodo.com"
+          },
+          "author": "Kyle Barr",
+          "title": "Elon Really Wants to Turn Twitter Into Wall Street",
+          "description": "What’s the point of an app if you can’t make money on it? Such is the thought process of Twitter owner Elon Musk, as the first part of his grand plan to turn the bird app into the “everything app” will start with transforming the site into yet another stock t…",
+          "url": "https://gizmodo.com/elon-musk-really-wants-to-turn-twitter-into-wall-street-1850705315",
+          "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/06441fbf167ee125c491f2430f367b16.jpg",
+          "publishedAt": "2023-08-03T20:20:00Z",
+          "content": "Whats the point of an app if you cant make money on it? Such is the thought process of Twitter owner Elon Musk, as the first part of his grand plan to turn the bird app into the everything app will s… [+3588 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "NPR"
+          },
+          "author": "Holly J. Morris",
+          "title": "Weekly news quiz: From Beyoncé to Clarence Thomas and more rogue animals",
+          "description": "It's all money, money, money in this week's news quiz, from Beyoncé's tour dropping $100,000 on something to Supreme Court Justice Clarence Thomas reportedly accepting more gifts from billionaires.",
+          "url": "https://www.npr.org/2023/08/11/1193069187/npr-news-quiz-beyonce-pac-politics-union-strike-animals",
+          "urlToImage": "https://media.npr.org/assets/img/2023/08/10/quiz-standard_wide-76c1d212fdd90b7ab73ceec350f22dc4080b0bf3-s1400-c100.png",
+          "publishedAt": "2023-08-11T09:00:57Z",
+          "content": "From left: Clarence and Beyoncé\r\nAlex Wong/Getty Images, Kevin Winter/Getty Images for The Recording Academy\r\nThis week, a person in Florida bought the winning $1.58 billion Mega Millions ticket. The… [+650 chars]"
+      },
+      {
+          "source": {
+              "id": "google-news",
+              "name": "Google News"
+          },
+          "author": null,
+          "title": "Panama court finds former president Martinelli guilty of money laundering - Reuters",
+          "description": "Panama court finds former president Martinelli guilty of money laundering  Reuters",
+          "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMihwFodHRwczovL3d3dy5yZXV0ZXJzLmNvbS9hcnRpY2xlL3BhbmFtYS1wb2xpdGljcy9wYW5hbWEtY291cnQtZmluZHMtZm9ybWVyLXByZXNpZGVudC1tYXJ0aW5lbGxpLWd1aWx0eS1vZi1tb25leS1sYXVuZGVyaW5nLWlkVVNLQk4yWVkxNlbSAQA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+          "urlToImage": null,
+          "publishedAt": "2023-07-18T14:44:00Z",
+          "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+      },
+      {
+          "source": {
+              "id": "google-news",
+              "name": "Google News"
+          },
+          "author": null,
+          "title": "US SEC says Hex crypto founder defrauded investors, spent money on 'Enigma' diamond - Reuters",
+          "description": "US SEC says Hex crypto founder defrauded investors, spent money on 'Enigma' diamond  Reuters",
+          "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL3VzL3VzLWNoYXJnZXMteW91dHViZXItcmljaGFyZC1oZWFydC13aXRoLWZyYXVkLXJlbGF0ZWQtdW5yZWdpc3RlcmVkLWNyeXB0by0yMDIzLTA3LTMxL9IBAA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+          "urlToImage": null,
+          "publishedAt": "2023-07-31T16:17:00Z",
+          "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+      },
+      {
+          "source": {
+              "id": "google-news",
+              "name": "Google News"
+          },
+          "author": null,
+          "title": "Singapore arrests 10 foreigners, seizes S$1 bln assets in money laundering probe - Reuters",
+          "description": "Singapore arrests 10 foreigners, seizes S$1 bln assets in money laundering probe  Reuters",
+          "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiggFodHRwczovL3d3dy5yZXV0ZXJzLmNvbS93b3JsZC9hc2lhLXBhY2lmaWMvc2luZ2Fwb3JlLWFycmVzdHMtMTAtZm9yZWlnbmVycy1zZWl6ZXMtczEtYmxuLWFzc2V0cy1tb25leS1sYXVuZGVyaW5nLXByb2JlLTIwMjMtMDgtMTYv0gEA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+          "urlToImage": null,
+          "publishedAt": "2023-08-17T03:13:00Z",
+          "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+      }
+    ],
+    "tech": [
+      {
+          "source": {
+              "id": "engadget",
+              "name": "Engadget"
+          },
+          "author": "Karissa Bell",
+          "title": "Biden signs executive order restricting investment in Chinese tech companies",
+          "description": "President Joe Biden signed an executive order that puts new limits on American investment in certain types of Chinese tech firms. The order is meant to address national security concerns posed by companies that deal with “sensitive technologies,” including se…",
+          "url": "https://www.engadget.com/biden-signs-executive-order-restricting-investment-in-chinese-tech-companies-230728855.html",
+          "urlToImage": "https://s.yimg.com/uu/api/res/1.2/RfHVxJsG5LujAwzPDr6D_g--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-08/2ad3be50-3708-11ee-a6fb-f495aaa2625a.cf.jpg",
+          "publishedAt": "2023-08-09T23:07:28Z",
+          "content": "President Joe Biden signed an executive order that puts new limits on American investment in certain types of Chinese tech firms. The order is meant to address national security concerns posed by com… [+1407 chars]"
+      },
+      {
+          "source": {
+              "id": "engadget",
+              "name": "Engadget"
+          },
+          "author": "Katie Malone",
+          "title": "Tech companies are selling your privacy back to you",
+          "description": "Security makes money. Every day companies hawk their latest privacy and security features, be it on a billboard, an internet ad or a commercial in your favorite show. Like Apple’s “Privacy. That’s iPhone”\r\n campaign, browsers like DuckDuckGo using privacy\r\n t…",
+          "url": "https://www.engadget.com/tech-companies-data-privacy-ads-marketing-183049670.html",
+          "urlToImage": "https://s.yimg.com/uu/api/res/1.2/._ahUT9Mae3INdYgC.mk.w--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-08/ad2a8750-3616-11ee-bbef-f2a796c8f381.cf.jpg",
+          "publishedAt": "2023-08-08T18:30:49Z",
+          "content": "Security makes money. Every day companies hawk their latest privacy and security features, be it on a billboard, an internet ad or a commercial in your favorite show. Like Apples Privacy. Thats iPhon… [+3160 chars]"
+      },
+      {
+          "source": {
+              "id": "wired",
+              "name": "Wired"
+          },
+          "author": "Louryn Strampe",
+          "title": "Best Teacher Discounts (2023): Deals on School Supplies and Tech",
+          "description": "Ace the school year with special, teachers-only perks—like cheap software, phone plans, and classroom supplies.",
+          "url": "https://www.wired.com/story/best-teacher-discounts/",
+          "urlToImage": "https://media.wired.com/photos/64cd4dd15c6a967f9caf0d44/191:100/w_1280,c_limit/Teacher-Discounts-Gear-GettyImages-603298882.jpg",
+          "publishedAt": "2023-08-07T11:00:00Z",
+          "content": "We know teaching is a tough job, but we also know how important it is. And with so many out-of-pocket costs for supplies and resources, even small savings become crucial. We've rounded up a list of d… [+8032 chars]"
+      },
+      {
+          "source": {
+              "id": "wired",
+              "name": "Wired"
+          },
+          "author": "Gregory Barber",
+          "title": "The Cloud Is a Prison. Can the Local-First Software Movement Set Us Free?",
+          "description": "Tired of relying on Big Tech to enable collaboration, peer-to-peer enthusiasts are creating a new model that cuts out the middleman. (That’s you, Google.)",
+          "url": "https://www.wired.com/story/the-cloud-is-a-prison-can-the-local-first-software-movement-set-us-free/",
+          "urlToImage": "https://media.wired.com/photos/64c958a510f55482d7159e84/191:100/w_1280,c_limit/WIRED_ARDHIRAPUTRA_01AUG2023.jpeg",
+          "publishedAt": "2023-08-03T10:00:00Z",
+          "content": "He describes Shapiros paper as an awakening. In CRDTs, Kleppmann saw the technical basis for a new class of software that no one was providing. But the algorithms were mostly useless for professional… [+4147 chars]"
+      },
+      {
+          "source": {
+              "id": "the-verge",
+              "name": "The Verge"
+          },
+          "author": "Verge Staff",
+          "title": "Readers pick the best tech books of all time",
+          "description": "Last month, The Verge assembled a list of the greatest tech books ever. But we opened the door for readers to submit anything they felt should’ve been on the list — and boy did they have opinions.",
+          "url": "https://www.theverge.com/23799444/readers-best-tech-nonfiction-books-of-all-time",
+          "urlToImage": "https://cdn.vox-cdn.com/thumbor/EB4E9ANdo2sPiNDXJLqcIBNtGaU=/0x0:3000x2000/1200x628/filters:focal(1500x1000:1501x1001)/cdn.vox-cdn.com/uploads/chorus_asset/file/24795507/236672_Best_Tech_books_Parkin_REDUX.jpg",
+          "publishedAt": "2023-07-19T12:00:00Z",
+          "content": "We asked you for your favorites, and you delivered.\r\nByVerge Staff\r\nJul 19, 2023, 12:00 PM UTC|Comments\r\nIf you buy something from a Verge link, Vox Media may earn a commission.See our ethics stateme… [+11012 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Gizmodo.com"
+          },
+          "author": "Mack DeGeurin",
+          "title": "The Tech That Shaped Hip-Hop",
+          "description": "A handful of gadgets released in the late 20th century grew alongside hip-hop and paved the way for the sounds now heard in chart-topping music.",
+          "url": "https://gizmodo.com/hip-hop-rap-tech-roland-tr-808-sample-boombox-turntable-1850688223",
+          "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/a2dca802fa80e238f9643ece38105e98.jpg",
+          "publishedAt": "2023-08-01T11:00:00Z",
+          "content": "Auto-Tune, a digital production tool intended to correct pitch on vocals and instruments, has left its mark on just about every popular song one can listen to in 2023. Though most artists use Auto-Tu… [+630 chars]"
+      },
+      {
+          "source": {
+              "id": "engadget",
+              "name": "Engadget"
+          },
+          "author": "Steve Dent",
+          "title": "Bing Chat powered by OpenAI tech is rolling out to Chrome and Safari",
+          "description": "Microsoft's Bing Chat is no longer exclusive to the Edge browser, as it's now rolling out to Chrome and Safari, The Verge reported. \"We are flighting access to Bing Chat in Safari and Chrome to select users as part of our testing on other browsers,\" a Microso…",
+          "url": "https://www.engadget.com/bing-chat-powered-by-openai-tech-is-rolling-out-to-chrome-and-safari-035228266.html",
+          "urlToImage": "https://s.yimg.com/uu/api/res/1.2/DbLZXdjWBzhk0EhWnRUM1Q--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-07/99b608e0-2a9d-11ee-bfcd-6cb32b72950f.cf.jpg",
+          "publishedAt": "2023-07-25T03:52:28Z",
+          "content": "Microsoft's Bing Chat is no longer exclusive to the Edge browser, as it's now rolling out to Chrome and Safari, The Verge reported. \"We are flighting access to Bing Chat in Safari and Chrome to selec… [+1339 chars]"
+      },
+      {
+          "source": {
+              "id": "engadget",
+              "name": "Engadget"
+          },
+          "author": "Will Shanklin",
+          "title": "Astrophysicist who claimed to find alien tech may have done the science wrong",
+          "description": "Last month, theoretical physicist Avi Loeb made headlines with the sensational claim that tiny spherules recovered from the bottom of the ocean were probably of alien origin. “It’s most likely a technological gadget with artificial intelligence,” he said to T…",
+          "url": "https://www.engadget.com/astrophysicist-who-claimed-to-find-alien-tech-may-have-done-the-science-wrong-214008434.html",
+          "urlToImage": "https://s.yimg.com/uu/api/res/1.2/xf7eOrwfMqA__dMJ2oWMzQ--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-07/eac86fb0-2a62-11ee-bfda-73ddf48d59cc.cf.jpg",
+          "publishedAt": "2023-07-24T21:40:08Z",
+          "content": "Last month, theoretical physicist Avi Loeb made headlines with the sensational claim that tiny spherules recovered from the bottom of the ocean were probably of alien origin. Its most likely a techno… [+6074 chars]"
+      },
+      {
+          "source": {
+              "id": "wired",
+              "name": "Wired"
+          },
+          "author": "Gregory Barber",
+          "title": "LK-99 Is Fueling a DIY Superconductivity Race",
+          "description": "Experts doubt claims that LK-99 is a room-temperature superconductor set to open up a future of levitating trains and quantum tech. Andrew McCalip wants to see for himself.",
+          "url": "https://www.wired.com/story/inside-the-diy-race-to-replicate-lk-99/",
+          "urlToImage": "https://media.wired.com/photos/64c990ecc859c4a1cdecc541/191:100/w_1280,c_limit/DIY-Superconductivity-LK-99-Business.jpg",
+          "publishedAt": "2023-08-02T12:00:00Z",
+          "content": "All that Andrew McCalip wanted for his 34th birthday was a shipment of red phosphorus. It was a tough requestthe substance happens to be an ingredient for cooking meth and is controlled by the US Dru… [+3923 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Gizmodo.com"
+          },
+          "author": "Artem Golub and Thomas Germain",
+          "title": "David Byrne on New Tech and AI | Gizmodo Interview",
+          "description": "Talking Heads singer shares his thoughts about emerging new tech from AI to VR.",
+          "url": "https://gizmodo.com/david-byrne-on-new-tech-and-ai-gizmodo-interview-1850673543",
+          "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/558412c15102beb381aeac6521defa2b.jpg",
+          "publishedAt": "2023-07-25T15:50:00Z",
+          "content": "Talking Heads singer shares his thoughts about emerging new tech from AI to VR.\r\nWe may earn a commission from links on this page."
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Lifehacker.com"
+          },
+          "author": "Jake Peterson",
+          "title": "Why Our Laws and Regulations Aren’t Ready for AI",
+          "description": "This post is part of Lifehacker’s “Living With AI” series: We investigate the current state of AI, walk through how it can be useful (and how it can’t), and evaluate where this revolutionary tech is heading next. Read more here.Read more...",
+          "url": "https://lifehacker.com/why-our-laws-and-regulations-aren-t-ready-for-ai-1850671379",
+          "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/9aebf0868a3241275645dc6cbea52e49.png",
+          "publishedAt": "2023-07-31T15:30:00Z",
+          "content": "This post is part of Lifehackers Living With AI series: We investigate the current state of AI, walk through how it can be useful (and how it cant), and evaluate where this revolutionary tech is head… [+9071 chars]"
+      },
+      {
+          "source": {
+              "id": "engadget",
+              "name": "Engadget"
+          },
+          "author": "Jeff Dunn",
+          "title": "Apple's 10.2-inch iPad drops back to $250, plus the rest of the week's best tech deals",
+          "description": "This week's best tech deals include a couple of all-time lows on older but still worthwhile Apple gadgets, with the 9th-gen iPad on sale for $250 and the M1-powered MacBook Air available for $750. The Amazon Fire TV Stick 4K Max is a solid value for those in …",
+          "url": "https://www.engadget.com/apples-102-inch-ipad-drops-back-to-250-plus-the-rest-of-the-weeks-best-tech-deals-151552038.html",
+          "urlToImage": "https://s.yimg.com/uu/api/res/1.2/QO2TlpIi21HL7Sb4P6QLJg--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-07/a54cbff0-27d2-11ee-bff8-d1ba523fdd6e.cf.jpg",
+          "publishedAt": "2023-07-21T15:15:52Z",
+          "content": "This week's best tech deals include a couple of all-time lows on older but still worthwhile Apple gadgets, with the 9th-gen iPad on sale for $250 and the M1-powered MacBook Air available for $750. Th… [+13151 chars]"
+      },
+      {
+          "source": {
+              "id": "engadget",
+              "name": "Engadget"
+          },
+          "author": "Amy Skorheim",
+          "title": "The AirPods Pro drop back to an all-time low, plus the rest of this week's best tech deals",
+          "description": "This week, the biggest event in tech took place in Seoul with Samsung's Unpacked showcase. Among other announcements, the company officially unveiled its latest foldable smartphone, the Galaxy Z Fold 5. It's not even available yet, but Amazon is offering a $2…",
+          "url": "https://www.engadget.com/the-airpods-pro-drop-back-to-an-all-time-low-plus-the-rest-of-this-weeks-best-tech-deals-183317049.html",
+          "urlToImage": "https://s.yimg.com/uu/api/res/1.2/BAMvC3_.5TRpMJE4CGUJzA--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2022-09/9bd30380-39fd-11ed-9daf-94386034b5b5.cf.jpg",
+          "publishedAt": "2023-07-28T18:33:17Z",
+          "content": "This week, the biggest event in tech took place in Seoul with Samsung's Unpacked showcase. Among other announcements, the company officially unveiled its latest foldable smartphone, the Galaxy Z Fold… [+15794 chars]"
+      },
+      {
+          "source": {
+              "id": "bbc-news",
+              "name": "BBC News"
+          },
+          "author": "https://www.facebook.com/bbcnews",
+          "title": "Devastating wildfires spur new detection systems",
+          "description": "Firms are using AI, drones and satellite tech to help detect and suppress wildfires.",
+          "url": "https://www.bbc.co.uk/news/business-66266186",
+          "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/450D/production/_130477671_gettyimages-1518872859.jpg",
+          "publishedAt": "2023-08-03T23:02:38Z",
+          "content": "On a Friday night in early July, Nikki Skuce heard from a neighbour the news she had been dreading: her small community of Smithers, British Columbia was on an evacuation alert due to an encroaching … [+4517 chars]"
+      },
+      {
+          "source": {
+              "id": "engadget",
+              "name": "Engadget"
+          },
+          "author": "Katie Malone",
+          "title": "New York City bans TikTok for government employees",
+          "description": "New York City will ban TikTok from government devices, The Verge reported on Wednesday. City agencies have 30 days to remove the ByteDance-owned app from their devices. Employees will not be allowed to download or use TikTok on their city-sanctioned tech effe…",
+          "url": "https://www.engadget.com/new-york-city-bans-tiktok-for-government-employees-174806575.html",
+          "urlToImage": "https://s.yimg.com/uu/api/res/1.2/YIK873ZqKNlFMslKn49mKQ--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-08/7939c890-3c59-11ee-b7fc-d1c7d0c6138a.cf.jpg",
+          "publishedAt": "2023-08-16T17:48:06Z",
+          "content": "New York City will ban TikTok from government devices, The Verge reported on Wednesday. City agencies have 30 days to remove the ByteDance-owned app from their devices. Employees will not be allowed … [+1143 chars]"
+      },
+      {
+          "source": {
+              "id": "bbc-news",
+              "name": "BBC News"
+          },
+          "author": "https://www.facebook.com/bbcnews",
+          "title": "AI will 'lead to more games being made and more jobs'",
+          "description": "Games have been using forms of AI for years, but what does the industry think of the latest tech?",
+          "url": "https://www.bbc.co.uk/news/entertainment-arts-66058906",
+          "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/14CC5/production/_130298158_charisma.ai2.png",
+          "publishedAt": "2023-07-20T23:47:30Z",
+          "content": "Artificial Intelligence will lead to more jobs in the video game industry, one of the bodies representing games developers has told the BBC. \r\nDr Richard Wilson, boss of TIGA, says AI will \"reduce th… [+5436 chars]"
+      },
+      {
+          "source": {
+              "id": "bbc-news",
+              "name": "BBC News"
+          },
+          "author": "https://www.facebook.com/bbcnews",
+          "title": "Zuckerberg 'not holding breath' over Musk cage fight",
+          "description": "The two tech billionaires have also been going head to head over their rival platforms, X and Threads.",
+          "url": "https://www.bbc.co.uk/news/business-66424364",
+          "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1EF7/production/_130172970_ecd8d43195c4f9997ddd683393e8cd26782cccb2-2.jpg",
+          "publishedAt": "2023-08-06T22:54:30Z",
+          "content": "Meta boss Mark Zuckerberg has said he is \"not holding his breath\" over a proposed cage fight with rival Elon Musk.\r\nIn a post on the new social media app Threads, Zuckerberg said he had proposed 26 A… [+1911 chars]"
+      },
+      {
+          "source": {
+              "id": "the-verge",
+              "name": "The Verge"
+          },
+          "author": "Jon Porter",
+          "title": "WhatsApp’s screen-sharing feature is leaving beta",
+          "description": "WhatsApp’s latest feature is the ability to share your screen during video calls. There’s also new landscape mode coming for video calls on mobile.",
+          "url": "https://www.theverge.com/2023/8/8/23824245/whatsapp-screen-sharing-feature",
+          "urlToImage": "https://cdn.vox-cdn.com/thumbor/8MuqknAo0481A53LFtx9HIc8yK4=/0x0:1920x1280/1200x628/filters:focal(1452x638:1453x639)/cdn.vox-cdn.com/uploads/chorus_asset/file/24837488/English_WhatsApp_Screen_Sharing.jpg",
+          "publishedAt": "2023-08-08T13:59:59Z",
+          "content": "WhatsApps screen-sharing feature is leaving beta\r\nWhatsApps screen-sharing feature is leaving beta\r\n / The Meta-owned messaging app says the feature can share a live view of your screen or just a spe… [+1782 chars]"
+      }
+    ],
+    "travel": [
+      {
+          "source": {
+              "id": null,
+              "name": "Lifehacker.com"
+          },
+          "author": "Daniel Oropeza",
+          "title": "These Cruises Are Allowing You to Bring Two Extra Guests for Free",
+          "description": "Cruises are better with more friends or family onboard—especially if they can travel with you for free. For a limited time, you can book a seven-day Princess cruise with a partner and bring a second and third guest for free. Here’s what you need to know about…",
+          "url": "https://lifehacker.com/these-cruises-are-allowing-you-to-bring-two-extra-guest-1850740270",
+          "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/d2bb35389b2501bfad51a083506fd219.jpg",
+          "publishedAt": "2023-08-15T21:00:00Z",
+          "content": "Cruises are better with more friends or family onboardespecially if they can travel with you for free. For a limited time, you can book a seven-day Princess cruise with a partner and bring a second a… [+2838 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Lifehacker.com"
+          },
+          "author": "Jeff Somers",
+          "title": "You Need to Book a ‘Sleep Vacation’",
+          "description": "Vacations are supposed to be relaxing, but increasingly, they just...aren’t. Over 90 percent of people in a recent study admitted that travel stresses them out, for reasons that are obvious: Planning them takes a ton of work, especially with inflation and the…",
+          "url": "https://lifehacker.com/you-need-to-book-a-sleep-vacation-1850735551",
+          "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/dc49c5f9c208efea134ff2bab7ba3715.jpg",
+          "publishedAt": "2023-08-14T20:59:00Z",
+          "content": "Vacations are supposed to be relaxing, but increasingly, they just...arent. Over 90 percent of people in a recent study admitted that travel stresses them out, for reasons that are obvious: Planning … [+4651 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Lifehacker.com"
+          },
+          "author": "Elizabeth Yuko",
+          "title": "How Winter Weather Will Affect Your Holiday Travel Plans This Year",
+          "description": "After making it through July—otherwise known as the hottest month ever recorded on Earth—some chilly winter weather might sound refreshing. But will the winter of 2023-2024 mimic last year’s, with minimal snow and unseasonably warm temperatures? Or will it pr…",
+          "url": "https://lifehacker.com/how-winter-weather-will-affect-your-holiday-travel-plan-1850727933",
+          "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/4f3d71d2e53750085a9f15911a778b54.jpg",
+          "publishedAt": "2023-08-13T13:00:00Z",
+          "content": "After making it through Julyotherwise known as the hottest month ever recorded on Earthsome chilly winter weather might sound refreshing. But will the winter of 2023-2024 mimic last years, with minim… [+2515 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Gizmodo.com"
+          },
+          "author": "Nikki Main",
+          "title": "Top 10 U.S. Airlines Ranked Best to Worst",
+          "description": "More Americans plan to travel this year than in 2022, and even as revenge travel has slowed down, and despite inflation, a potential recession, nationwide mass layoffs, and disastrous travel delays, more people are flocking to airports than in recent years.Re…",
+          "url": "https://gizmodo.com/top-10-u-s-airlines-ranked-best-to-worst-1850686536",
+          "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/d0168203a1c33971fd5ee3b1e0fc4681.jpg",
+          "publishedAt": "2023-07-28T17:55:00Z",
+          "content": "More Americans plan to travel this year than in 2022, and even as revenge travel has slowed down, and despite inflation, a potential recession, nationwide mass layoffs, and disastrous travel delays, … [+943 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Gizmodo.com"
+          },
+          "author": "Germain Lussier",
+          "title": "Travel Behind the Scenes of Star Wars Outlaws",
+          "description": "Without Hollywood stars attending San Diego Comic-Con this year, the schedule was full of surprises. One of the biggest though had to be the inclusion of Star Wars Outlaws. The upcoming open world Star Wars game won’t hit consoles or PCs until next year, we’v…",
+          "url": "https://gizmodo.com/star-wars-outlaws-comic-con-footage-star-wars-game-1850666477",
+          "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/d9740d487132463791e6d82b62335dbf.jpg",
+          "publishedAt": "2023-07-23T15:10:00Z",
+          "content": "Without Hollywood stars attending San Diego Comic-Con this year, the schedule was full of surprises. One of the biggest though had to be the inclusion of Star Wars Outlaws. The upcoming open world St… [+2332 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Gizmodo.com"
+          },
+          "author": "David Nield",
+          "title": "How to Download Maps on Your Phone to Travel Offline",
+          "description": "Even in this day and age, you can’t always guarantee a strong cellular connection to a mobile network everywhere you go, especially if you’re on vacation. That can cause a problem when you’re trying to make your way from A to B using your map app of choice. T…",
+          "url": "https://gizmodo.com/how-to-download-google-apple-maps-on-your-phone-offline-1850712496",
+          "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/afa5354659da81156bdc3f3fc8445940.jpg",
+          "publishedAt": "2023-08-12T12:00:00Z",
+          "content": "Even in this day and age, you cant always guarantee a strong cellular connection to a mobile network everywhere you go, especially if youre on vacation. That can cause a problem when youre trying to … [+3840 chars]"
+      },
+      {
+          "source": {
+              "id": "bbc-news",
+              "name": "BBC News"
+          },
+          "author": "https://www.facebook.com/bbcnews",
+          "title": "Russia imposes travel restrictions on UK diplomats",
+          "description": "Its foreign ministry announces the move amid worsening relations between London and Moscow.",
+          "url": "https://www.bbc.co.uk/news/uk-66260363",
+          "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3D30/production/_130446651_d3fec8f5919dc07478ca8ac3e58af01806df3b4e0_0_4226_28291000x669.jpg",
+          "publishedAt": "2023-07-20T17:33:18Z",
+          "content": "Russia's foreign ministry has imposed tight travel restrictions on British diplomats working in the country.\r\nIt said they must give at least five days' notice and provide extensive travel details if… [+2616 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Lifehacker.com"
+          },
+          "author": "Elizabeth Yuko",
+          "title": "You'll Need a 'Visa' for Europe Soon",
+          "description": "Currently, Americans only need a valid passport to visit to countries in the European Union (EU), but that’s soon going to change. Beginning early next year, people from approximately 60 countries around the world—including the U.S. and Canada—will need a new…",
+          "url": "https://lifehacker.com/youll-need-a-visa-for-europe-soon-1850665413",
+          "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/8b43956a79ab79b93ea1c5cd81a14ed8.jpg",
+          "publishedAt": "2023-07-22T15:00:00Z",
+          "content": "Currently, Americans only need a valid passport to visit to countries in the European Union (EU), but thats soon going to change. Beginning early next year, people from approximately 60 countries aro… [+2053 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Lifehacker.com"
+          },
+          "author": "Amanda Blum",
+          "title": "The Gear You Need to Make Camping With Your Dog a Lot Easier",
+          "description": "I started camping as a way to travel during COVID, and almost immediately, my dog, Clementine the Doberman, fell in love with it. We found private campsites she could run endlessly around; we drove up and down the west coast, and camped at the beach. She love…",
+          "url": "https://lifehacker.com/the-gear-you-need-to-make-camping-with-your-dog-a-lot-e-1850705453",
+          "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/0086e3dc24e4a761eac9d6fd4e12e7f1.jpg",
+          "publishedAt": "2023-08-04T18:00:00Z",
+          "content": "I started camping as a way to travel during COVID, and almost immediately, my dog, Clementine the Doberman, fell in love with it. We found private campsites she could run endlessly around; we drove u… [+3782 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Lifehacker.com"
+          },
+          "author": "Emily Long",
+          "title": "This Number on Your Boarding Pass Reveals a Ton of Personal Data",
+          "description": "Posting a photo of your boarding pass for your upcoming trip on social media may seem harmless, but while you’re enjoying your vacation, scammers might be using a few pieces of data from your ticket to wreak havoc on your life. As security experts interviewed…",
+          "url": "https://lifehacker.com/this-number-on-your-boarding-pass-reveals-a-ton-of-pers-1850651165",
+          "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/3f2d9b2a2c6e50186d5bedfc716ce870.jpg",
+          "publishedAt": "2023-07-18T16:30:00Z",
+          "content": "Posting a photo of your boarding pass for your upcoming trip on social media may seem harmless, but while youre enjoying your vacation, scammers might be using a few pieces of data from your ticket t… [+2388 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Lifehacker.com"
+          },
+          "author": "Meredith Dietz",
+          "title": "Why You Should Choose Credit Over Cash When Traveling Abroad",
+          "description": "On a recent trip to Madrid, I realized something that would have been unimaginable as a traveler five years ago: I didn’t need cash once. On the one hand, this meant no leftover euros as a “souvenir.” On the other, more important hand, this was confirmation o…",
+          "url": "https://lifehacker.com/why-you-should-choose-credit-over-cash-when-traveling-a-1850682925",
+          "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/91550978c95e371455b6594c7b5886cc.jpg",
+          "publishedAt": "2023-07-27T19:30:00Z",
+          "content": "On a recent trip to Madrid, I realized something that would have been unimaginable as a traveler five years ago: I didnt need cash once. On the one hand, this meant no leftover euros as a souvenir. O… [+3227 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Lifehacker.com"
+          },
+          "author": "Daniel Oropeza",
+          "title": "You Can Book a 9-Night Trip to Paris, London, and Amsterdam for $1,549 Right Now",
+          "description": "Traveling to Europe can be costly, but for at least the next few days, it doesn’t have to be. Through Great Value Vacations, which calls itself the “online leader of expertly designed vacations at an affordable price,” you can snag a 9- or 10-night trip to Pa…",
+          "url": "https://lifehacker.com/you-can-book-a-9-night-trip-to-paris-london-and-amste-1850679283",
+          "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/26dc38246a9677167c97be55124cf791.jpg",
+          "publishedAt": "2023-07-26T21:30:00Z",
+          "content": "Traveling to Europe can be costly, but for at least the next few days, it doesnt have to be. Through Great Value Vacations, which calls itself the online leader of expertly designed vacations at an a… [+2533 chars]"
+      },
+      {
+          "source": {
+              "id": "business-insider",
+              "name": "Business Insider"
+          },
+          "author": "Taylor Milam-Samuel",
+          "title": "Missed connection travel insurance coverage",
+          "description": "Missed connection insurance helps pay for costs incurred with missing a flight. Learn how missed connection coverage works and how to get it.",
+          "url": "https://www.businessinsider.com/personal-finance/missed-connection-coverage",
+          "urlToImage": "https://i.insider.com/64c16e3442834d00193e5cdc?width=1200&format=jpeg",
+          "publishedAt": "2023-07-27T15:32:01Z",
+          "content": "Our experts answer readers' insurance questions and write unbiased product reviews (here's how we assess insurance products). In some cases, we receive a commission from our partners; however, our op… [+5776 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Lifehacker.com"
+          },
+          "author": "Meredith Dietz",
+          "title": "How to Beat Dynamic Airline Award Pricing",
+          "description": "The major incentive to stay loyal to one specific airline is your ability to rack up points and miles. A few years back, you could be confident that a business-class flight to Europe would cost no more than about 60,000 points or miles each way. Unfortunately…",
+          "url": "https://lifehacker.com/how-to-beat-dynamic-airline-award-pricing-1850717363",
+          "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/f1de87365a5d867a103f2374324efa7e.jpg",
+          "publishedAt": "2023-08-08T17:30:00Z",
+          "content": "The major incentive to stay loyal to one specific airline is your ability to rack up points and miles. A few years back, you could be confident that a business-class flight to Europe would cost no mo… [+3001 chars]"
+      },
+      {
+          "source": {
+              "id": "google-news",
+              "name": "Google News"
+          },
+          "author": null,
+          "title": "Singapore Airlines flags near-term competition in international travel - Flipboard",
+          "description": "Singapore Airlines flags near-term competition in international travel  Flipboard",
+          "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMivwFodHRwczovL2ZsaXBib2FyZC5jb20vQGNhcmliYi9haXItdHJhdmVsLW5ld3MtNzVsc2ZhNTV6L3NpbmdhcG9yZS1haXJsaW5lcy1mbGFncy1uZWFyLXRlcm0tY29tcGV0aXRpb24taW4taW50ZXJuYXRpb25hbC10cmF2ZWwvYS10RWJPWU1GaFN5S2oxRGxzc1dNRnNRJTNBYSUzQTEzMDI4NDc3LTVmZGM3YzBmOGUlMkZyZXV0ZXJzLmNvbdIBygFodHRwczovL2ZsaXBib2FyZC5jb20vQGNhcmliYi9haXItdHJhdmVsLW5ld3MtNzVsc2ZhNTV6L3NpbmdhcG9yZS1haXJsaW5lcy1mbGFncy1uZWFyLXRlcm0tY29tcGV0aXRpb24taW4taW50ZXJuYXRpb25hbC10cmF2ZWwvYS10RWJPWU1GaFN5S2oxRGxzc1dNRnNRJTNBYSUzQTEzMDI4NDc3LTVmZGM3YzBmOGUlMkZyZXV0ZXJzLmNvbT9mb3JtYXQ9YW1w?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+          "urlToImage": null,
+          "publishedAt": "2023-07-27T13:46:30Z",
+          "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+      },
+      {
+          "source": {
+              "id": "google-news",
+              "name": "Google News"
+          },
+          "author": null,
+          "title": "Explainer: Greece fires: Does travel insurance cover wildfires? - Reuters.com",
+          "description": "Explainer: Greece fires: Does travel insurance cover wildfires?  Reuters.com",
+          "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LnJldXRlcnMuY29tL2J1c2luZXNzL2Vudmlyb25tZW50L2dyZWVjZS1maXJlcy1kb2VzLXRyYXZlbC1pbnN1cmFuY2UtY292ZXItd2lsZGZpcmVzLTIwMjMtMDctMjQv0gEA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+          "urlToImage": null,
+          "publishedAt": "2023-07-24T17:14:00Z",
+          "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+      },
+      {
+          "source": {
+              "id": "google-news",
+              "name": "Google News"
+          },
+          "author": null,
+          "title": "Ryanair cautious about winter travel after quarterly profit soars - Reuters",
+          "description": "Ryanair cautious about winter travel after quarterly profit soars  Reuters",
+          "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMif2h0dHBzOi8vd3d3LnJldXRlcnMuY29tL2J1c2luZXNzL2Flcm9zcGFjZS1kZWZlbnNlL3J5YW5haXItcTEtcHJvZml0cy1zb2FyLWN1dHMtZnktcGFzc2VuZ2VyLWZvcmVjYXN0LWJvZWluZy1kZWxheXMtMjAyMy0wNy0yNC_SAQA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+          "urlToImage": null,
+          "publishedAt": "2023-07-24T08:04:00Z",
+          "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+      },
+      {
+          "source": {
+              "id": "google-news",
+              "name": "Google News"
+          },
+          "author": null,
+          "title": "Airbnb forecasts upbeat revenue as international travel rebounds - Reuters",
+          "description": "Airbnb forecasts upbeat revenue as international travel rebounds  Reuters",
+          "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LnJldXRlcnMuY29tL2J1c2luZXNzL2FpcmJuYi1mb3JlY2FzdHMtcTMtcmV2ZW51ZS1hYm92ZS1lc3RpbWF0ZXMtcmVib3VuZC1pbnRlcm5hdGlvbmFsLXRyYXZlbC0yMDIzLTA4LTAzL9IBAA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+          "urlToImage": null,
+          "publishedAt": "2023-08-03T22:21:00Z",
+          "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+      },
+      {
+          "source": {
+              "id": "google-news",
+              "name": "Google News"
+          },
+          "author": null,
+          "title": "Lebanon seeks to reassure Gulf, Germany after travel warnings - Reuters",
+          "description": "Lebanon seeks to reassure Gulf, Germany after travel warnings  Reuters",
+          "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL2xlYmFub24tc2Vla3MtcmVhc3N1cmUtZ3VsZi1nZXJtYW55LWFmdGVyLXRyYXZlbC13YXJuaW5ncy0yMDIzLTA4LTA1L9IBAA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+          "urlToImage": null,
+          "publishedAt": "2023-08-05T17:56:00Z",
+          "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+      },
+      {
+          "source": {
+              "id": "google-news",
+              "name": "Google News"
+          },
+          "author": null,
+          "title": "Walmart teams up with Expedia on travel perks - Reuters",
+          "description": "Walmart teams up with Expedia on travel perks  Reuters",
+          "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LnJldXRlcnMuY29tL2J1c2luZXNzL3JldGFpbC1jb25zdW1lci93YWxtYXJ0LXRlYW1zLXVwLXdpdGgtZXhwZWRpYS10cmF2ZWwtcGVya3MtMjAyMy0wNy0yNS_SAQA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+          "urlToImage": null,
+          "publishedAt": "2023-07-25T20:27:00Z",
+          "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+      },
+      {
+          "source": {
+              "id": "google-news",
+              "name": "Google News"
+          },
+          "author": null,
+          "title": "American Airlines raises 2023 profit forecast on travel boom - Flipboard",
+          "description": "American Airlines raises 2023 profit forecast on travel boom  Flipboard",
+          "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMimgFodHRwczovL2ZsaXBib2FyZC5jb20vYXJ0aWNsZS9hbWVyaWNhbi1haXJsaW5lcy1yYWlzZXMtMjAyMy1wcm9maXQtZm9yZWNhc3Qtb24tdHJhdmVsLWJvb20vYS10dUVMSElla1JBbTNPSDR4emg4eFh3JTNBYSUzQTMxNjc0ODAtNzA4YTI4Mjg4NiUyRnJldXRlcnMuY29t0gGlAWh0dHBzOi8vZmxpcGJvYXJkLmNvbS9hcnRpY2xlL2FtZXJpY2FuLWFpcmxpbmVzLXJhaXNlcy0yMDIzLXByb2ZpdC1mb3JlY2FzdC1vbi10cmF2ZWwtYm9vbS9hLXR1RUxISWVrUkFtM09INHh6aDh4WHclM0FhJTNBMzE2NzQ4MC03MDhhMjgyODg2JTJGcmV1dGVycy5jb20_Zm9ybWF0PWFtcA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+          "urlToImage": null,
+          "publishedAt": "2023-07-20T15:38:36Z",
+          "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+      },
+      {
+          "source": {
+              "id": "google-news",
+              "name": "Google News"
+          },
+          "author": null,
+          "title": "Democratic senator wants new taxes on private jet travel - Reuters.com",
+          "description": "Democratic senator wants new taxes on private jet travel  Reuters.com",
+          "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3N1c3RhaW5hYmlsaXR5L2RlbW9jcmF0aWMtc2VuYXRvci13YW50cy1uZXctdGF4ZXMtcHJpdmF0ZS1qZXQtdHJhdmVsLTIwMjMtMDctMTkv0gEA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+          "urlToImage": null,
+          "publishedAt": "2023-07-19T14:30:00Z",
+          "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+      }
+    ]
+  }

@@ -59,23 +59,15 @@ const News = () => {
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
-  const fetchNews = (
-    item: string,
-    setter: React.Dispatch<React.SetStateAction<any>>
-  ) => {
+  const fetchNews = () => {
     axios
       .get(
-        `https://newsapi.org/v2/everything?q=${item}&apiKey=${process.env.REACT_APP_NEWS_KEY}`
+        `https://raw.githubusercontent.com/RandolphDy9/news-server/main/db.json`
       )
       .then((response) => {
-        console.log(response);
-        const filtered = response.data.articles.filter(
-          (item: NewsType) => item.urlToImage !== null
-        );
-        setArticles((prevState: any) => ({
-          ...prevState,
-          [item]: filtered,
-        }));
+        console.log(response.data);
+        const data = response.data;
+        setArticles(data);
       })
       .catch((error) => {
         console.log(error);
@@ -83,13 +75,7 @@ const News = () => {
   };
 
   useEffect(() => {
-    fetchNews("news", setArticles);
-    fetchNews("sports", setArticles);
-    fetchNews("entertainment", setArticles);
-    fetchNews("life", setArticles);
-    fetchNews("money", setArticles);
-    fetchNews("tech", setArticles);
-    fetchNews("travel", setArticles);
+    fetchNews();
   }, []);
 
   const NavigationItem = ({ name }: { name: string }) => {

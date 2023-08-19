@@ -16,7 +16,7 @@ type NewsType = {
 
 const AllNews = () => {
   const { category } = useParams();
-  const [articles, setSetArticles] = useState<NewsType[]>();
+  const [articles, setArticles] = useState<NewsType[]>();
   const [activeSection, setActiveSection] = useState("");
   const [isMobileMenuOpen, setMobileMenuOpen] = useState(false);
   const [query, setQuery] = useState("");
@@ -35,19 +35,23 @@ const AllNews = () => {
   useEffect(() => {
     axios
       .get(
-        `https://newsapi.org/v2/everything?q=${category}&apiKey=${process.env.REACT_APP_NEWS_KEY}`
+        `https://raw.githubusercontent.com/RandolphDy9/news-server/main/db.json`
       )
       .then((response) => {
-        console.log(response);
-        const filtered = response.data.articles.filter(
-          (item: NewsType) => item.urlToImage !== null
-        );
-        setSetArticles(filtered);
+        console.log(response.data);
+        const data = response.data;
+        if (category === 'news') setArticles(data.news);
+        else if (category === 'sports') setArticles(data.sports);
+        else if (category === 'entertainment') setArticles(data.entertainment);
+        else if (category === 'life') setArticles(data.life);
+        else if (category === 'money') setArticles(data.money);
+        else if (category === 'tech') setArticles(data.tech);
+        else if (category === 'travel') setArticles(data.travel);
       })
       .catch((error) => {
         console.log(error);
       });
-  // eslint-disable-next-line react-hooks/exhaustive-deps
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
   useEffect(() => {
@@ -58,7 +62,7 @@ const AllNews = () => {
         if (rect && rect.top <= 100 && rect.bottom >= 100) {
           // setActiveSection(section);
           if (category) {
-            setActiveSection(category)
+            setActiveSection(category);
             break;
           }
         }
@@ -140,7 +144,10 @@ const AllNews = () => {
               </button>
             </div>
 
-            <div className="w-full md:w-1/3 text-5xl font-bold font-main" onClick={() => navigate('/')}>
+            <div
+              className="w-full md:w-1/3 text-5xl font-bold font-main"
+              onClick={() => navigate("/")}
+            >
               .newsfeed
             </div>
 
@@ -176,10 +183,7 @@ const AllNews = () => {
         {articles &&
           articles.map((item: NewsType) => {
             return (
-              <div
-                className="p-6"
-                onClick={() => window.open(`${item.url}`)}
-              >
+              <div key={item.author} className="p-6" onClick={() => window.open(`${item.url}`)}>
                 <div className="flex flex-col gap-2">
                   <img
                     src={item.urlToImage}
