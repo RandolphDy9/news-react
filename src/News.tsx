@@ -60,7 +60,7 @@ const News = () => {
   const fetchNews = () => {
     axios
       .get(
-        `https://raw.githubusercontent.com/RandolphDy9/news-server/main/db.json`
+        `https://raw.githubusercontent.com/RandolphDy9/news-react/main/db.json`
       )
       .then((response) => {
         console.log(response.data);
